@@ -1,0 +1,3622 @@
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add text . gitattributes text
+downgrade jdk15on 942 1 . 57 in core
+travis . yml for <UNK>
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of 1597 strings )
+update to new 2 . 2
+updated changelog
+gh - <UNK> - updated travis script
+fixed <UNK> . html svn changeset : <UNK> / svn branch : trunk
+updated version number
+added sudo before_install install info
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated jabref_tr . properties (# 2056 ) translated the last last <UNK> to turkish
+added a <UNK> bugs bugs | | with the <UNK> that does not exist
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bump to version 0 . 7 . 0
+[ gobblin - <UNK> ] fix gobblin <UNK> <UNK>
+jsonfragment java ... list ... was <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updates libjitsi to <UNK>
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed syncthingservice syncthingservice registeronsharedpreferencechangelistener service <UNK>
+updated jabref_tr . properties to jabref_tr % of jabref_tr . 1
+include dependency in gradle signed - off - by : markus rathgeb < maggu2810 @ gmail . com >
+[ doc ] add missing <UNK>
+logo changed
+upgrade to spring cloud camden camden camden camden camden cloud cloud camden gh - commit - id : <UNK>
+updated readme . asciidoc
+update the project version to 0 . 63 . 1 - snapshot
+fixed name of name in pom . xml
+changed <UNK> . sxi to <UNK> it
+changed list visibility to public
+update screenshots
+sample <UNK> . png
+removed highly highly highly <UNK> at <UNK> at it , it works on <UNK>
+deprecations dynamiccallstoscopeintrospectioninspector call_user_func_array call_user_func_array call_user_func_array call_user_func_array <UNK>
+make this 2 . 5 . 5beta
+removed redundant <UNK> check from jsonmojo maven json
+upgraded maven - antrun - plugin from 1 . 7 to 1 . 8
+update readme
+translated using weblate ( kabyle ) currently translated at 0 . 6 % ( <UNK> of 2400 strings )
+updates libjitsi to <UNK>
+removed configure checks
+removed the warn that was <UNK> <UNK> at the end of <UNK>
+fix issue <UNK> , <UNK> <UNK> <UNK> <UNK>
+v2 . 5 . 8
+[ gradle release plugin ] - pre tag commit : ' 2 . 0 . 0 '
+adding before_install docker version to travis
+add <UNK> to the <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+transfervalue transfervalue protected
+bump commons - codec to 1 . 11
+added faunus character character
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added release . jar to the build
+mvn : updates libjitsi
+added <UNK> files to match folder
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated gitignore
+add compiler version for compiler
+remove readme
+release selenide 3 . 8
+fix build - jar dependency
+remove test method
+v1 . 0
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare release lanterna - 2 . 1 . 3
+updated syncthing to v0 . 14 . 32
+[ patch <UNK> / 153 ] updating build <UNK> to support <UNK> <UNK>
+trying to fix <UNK> test
+translated using weblate ( polish ) currently translated at 99 . 9 % ( <UNK> of 3432 strings )
+updated version numbers
+added the samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate samplerate to previously to <UNK> this samplerate samplerate . 0
+changed the year number to include 2012 2012
+updated to the latest version of the bom
+bumped version to 2 . 9alpha11 @ branch - specific
+fixing the build - context context - bar context
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated binaries
+update apk
+adding link to crowdin crowdin project in readme
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added visible for container <UNK> svn changeset : <UNK> / svn branch : 6 . 7
+added absolutelayout position number to absolutelayout absolutelayout id (# <UNK> ) change - id : <UNK>
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 3 . 2 . 5
+translated using weblate ( swedish ) currently translated at 99 . 5 % ( <UNK> of <UNK> strings )
+translated using weblate ( french ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+upgrade to apache camel 2 . 17 . 2 closes gh - <UNK>
+make this 2 . 9 . 3beta
+add missing final
+removed unused jar
+removed updatestate public
+<UNK> the build
+updated changelog
+fix <UNK> of <UNK> <UNK> method
+translated using weblate ( slovenian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+<UNK> : use <UNK>
+fix a bug in run () call
+prepare for 2 . 7 . 6
+testing changelog for the <UNK>
+release 0 . 5 . 0
+updated changelog
+update
+added <UNK> <UNK> <UNK> example for <UNK>
+translated using weblate ( russian ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+translated using weblate ( latvian ) currently translated at 83 . 5 % ( <UNK> of 3062 strings )
+add the release apk to gitignore
+updated logo
+translated using weblate ( sardinian ) currently translated at 99 . 9 % ( <UNK> of 2288 strings )
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+sample sample is <UNK>
+add a unit test for the test tests
+added maven to readme
+translated using weblate ( slovenian ) currently translated at 98 . 7 % ( <UNK> of <UNK> strings )
+drop 1 . 0 , 1 . ui , 1 . ui , 1 . ui , but does not release anymore
+added author
+[ fabric - 648 ] ignore resolvertest resolvertest test
+did for 2 . 1 . 9
+bumped version to 1 . 1alpha23
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 6 . 10 . 1
+update iphone . showemailcomposer
+don ' t run to alpha 1f 1f 1f
+added package for package - info
+fix syncany git - git - git :// 0 :// 5 . com / <UNK> / show / pull / <UNK>
+updated changelog
+updated the orangeextensions jar ( built on jitsi <UNK> )
+prepare for 0 . 4 snapshots development
+translated using weblate ( catalan ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added <UNK> android developers to <UNK> / android / plugin
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed for issue <UNK> ( <UNK> directly )
+add <UNK> vim for windows as the python object file
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( 2095 of 2095 strings )
+changed the <UNK> 0 , so that the offscreen offscreen offscreen offscreen offscreen
+bumped version to 2 . 3alpha27 @ branch - specific
+[ maven - release - plugin ] prepare for next development iteration
+jsonschemafactory . java () provided
+added <UNK> <UNK> . log results on <UNK> <UNK> results on <UNK>
+add ror ror -- to build . sh
+added 0 . 0 . 1 to the jmxweb jmxweb <UNK> <UNK>
+adds support for null null and null for jingle null
+updated to new release of fluido skin skin skin skin skin skins skins https :// github . com / ps3mediaserver / skin / commit / <UNK>
+test : correct static test case
+add check for created <UNK>
+fix mvn build
+translated using weblate ( icelandic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+try to fix the <UNK> <UNK> for <UNK> - <UNK> space
+. readme
+corrected column name for test
+added missing test
+translated using weblate ( kabyle ) currently translated at 0 . 5 % ( <UNK> of 2400 strings )
+updated changelog
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of 1635 strings )
+upgrade to spring <UNK> 1 . 3 . 1 . release
+added header . png
+set pluck pluck collection to config
+translated using weblate ( russian ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+improved the listener <UNK> lookup
+removed <UNK> from <UNK> svn changeset : <UNK> / svn branch : 6 . 7
+bump lucene to 6 . 4 . 1
+add support to add the getusers2 getusers2 getusers2 getusers2 to allow <UNK> to support <UNK>
+fixed <UNK> button
+<UNK> the blocklistfragment 100 from 100 <UNK>
+fixed bug in iqprivatehandler privatestore privatestore privatestore privatestore ] being null for <UNK> <UNK>
+[ pom ] update checkstyle to 6 . 18
+v1 . 1 . 1
+<UNK> () : fix typo for <UNK> () ()
+<UNK> mode mode for mode
+translated using weblate ( japanese ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed listing listing javadoc in listing . java
+[ maven - release - plugin ] rollback the release of mahout - buildtools - 0 . 12 . 2
+gradle 4 . 6
+translated using weblate ( italian ) currently translated at 100 . 0 % ( 1847 of 1847 strings )
+finish
+filter filter filter
+gitignore
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add lib / to . gitignore intellij <UNK> <UNK> - gradle on <UNK> <UNK>
+change <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed <UNK> to avoid <UNK> exception
+try to fix test
+removed system out
+mongo mongo import
+fix <UNK> / <UNK> bug
+fixed inputstream classloader to inputstream close ]
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+check if it is running without log
+add <UNK>
+readme
+[ java ] depend on agrona snapshot
+updated to next development version : release 1 . 1 . 1
+fixed <UNK> import
+removed extra groupsbyname devicemanager devicemanager devicemanager private
+added missing version for surefire
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated version
+<UNK> <UNK> code in html <UNK>
+[ <UNK> - <UNK> ] <UNK> of fabric - pool <UNK>
+check for <UNK> <UNK> before <UNK>
+<UNK> back source for <UNK>
+update gitignore
+added share share deployment to <UNK>
+added truststore truststore truststore truststore <UNK>
+sonar
+remove unused import
+upgrade build tools to <UNK> . 0
+changed default setadvices setadvices ( advice <UNK> )
+<UNK> the command is <UNK>
+handle tables tables from <UNK>
+updated syncthing to v0 . 14 . 32
+added hidden files to gitignore
+fixed bug in parsepublickey ain asn1inputstream ain getoctets getoctets getoctets getoctets getoctets getoctets bouncycastle bouncycastle <UNK> . bouncycastle eclipse = <UNK> to <UNK> a <UNK> <UNK> from <UNK>
+fixed <UNK> docs
+manifest
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( 1660 of 1660 strings )
+[ maven - release - plugin ] prepare for next development iteration
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( 1660 of 1660 strings )
+updated react dependency to <UNK> . 7 . 9
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+updating readme
+upgrade to hikaricp 2 . 3 . 7 # <UNK>
+[ gradle release plugin ] - new version commit : ' 2 . 0 - snapshot '
+updated selenium selenium selenium to 2 . 26 . 0
+fixed wrong har har getartifacthandler getartifacthandler - <UNK>
+fix test
+fixes issue <UNK> by create tag tag to avatar silver3 silver3 color
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( italian ) currently translated at 100 . 0 % ( 138 of 138 strings )
+<UNK> : fix bug in debug comment (# <UNK> )
+[ findbugs ] removing unused imports
+[ maven ] update maven - site - plugin to 3 . 5 . 1
+bumped version in pom to 0 . 7 . 1
+[ maven - release - plugin ] prepare release unirest - java - 1 . 3 . 2
+[ doc ] <UNK> ' design ' condition in readme
+let ' s not <UNK> <UNK> with db / db # <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( arabic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> <UNK> test
+v3 . 0 . 12
+avoid <UNK> () check
+upgrade to latest gradle version 4 . 1
+unserializeexploitsinspector todo
+travis : add ci . yml for travis (# <UNK> ) signed - off - by
+changed cometvisu backend backend description to cometvisu backend description (# <UNK> ) signed - off - by : kai kreuzer < kai @ openhab . org >
+updates libjitsi . jar ( built on
+updates jdirectshow jdirectshow jdirectshow jdirectshow jdirectshow <UNK> handling
+bump java version to 1 . 7
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 4 . 7 . 1
+<UNK> podspec ios
+fixed a bug in replicatedchroniclemap . alignpositionaddr ()
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed type for type type
+removed unused @ ancestoradded
+changed hsqldb todo to hsqldb svn changeset : <UNK> / svn branch : trunk
+fixed setapnsserver setapnsserver inetsocketaddress createunresolved . createunresolved pushy <UNK> by <UNK>
+updated the null of isbluetoothenabled isbluetoothenabled ()
+fix the name of the hi3798mv100 hi3798mv100 hi3798mv100 hi3798mv100 hi3798mv100 hi3798mv100 hi3798mv100 commit : <UNK> : apply the v0 . x . x
+added netaddr netaddr netaddr sip to the sip list
+[ artifactory - release ] release version 2 . 5 . 0 . m4
+add <UNK> to null for <UNK>
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( 3323 of 3323 strings )
+remove duplicate <UNK> <UNK> " from " styles "
+added missing check on error <UNK>
+fixed commons docs
+translated using weblate ( lithuanian ) currently translated at 96 . 5 % ( <UNK> of <UNK> strings )
+fixed sample location for <UNK>
+expose run to dir
+removed unused test : ignition lib )
+updated syncthing to v0 . 14 . 32
+<UNK> the docs in the readme
+updates libjnsctp . jnilib with <UNK>
+added false folder to build . xml
+fixed for query <UNK> <UNK>
+fixed device <UNK> device
+going to 2 . 0 . 1 - snapshot ( due to api updates )
+unused import
+<UNK> ffmpeg ( <UNK> ) to <UNK>
+updating to pgplugin base class , cf [ issue # 44 ]( https :// github . com / phonegap / phonegap - plugins / issues / 44 )
+fixed the <UNK> git - git - git : <UNK>
+changed to < version > 2 . 0 . 15b - snapshot </ version >
+turn down childbrowser childbrowser childbrowser childbrowser settings when calling childbrowser childbrowser childbrowser - 74
+updated readme
+fix # <UNK>
+fix <UNK> <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+removed unused doc
+updated maven - plugin - testing - harness - harness 2 . 1
+upgrade to xstream xstream xstream 1 . 4 . 9
+changed info to assemble assemble info
+remove unused trace from web trace
+upgraded maven - resources - plugin to 2 . 6
+jupiter jupiter
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 1597 of 1597 strings )
+[ gradle release plugin ] - new version commit : ' 1 . 4 . 9 - snapshot '
+updated version to 3 , to proper proper version
+updated readme
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+allow <UNK> in test mapping
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( 2757 of 2757 strings )
+fix debug <UNK>
+updated gradle plugin
+[ maven - release - plugin ] prepare for next development iteration
+update gitignore
+changed email resource to pref_emailupload_title upload upload
+[ calcite - <UNK> ] fix resteasy - 737 - jaxrs resteasy so that <UNK> start has <UNK>
+added praseodym praseodym praseodym praseodym praseodym the readme
+fix gradle gradle script
+fixing businessruletaskactivitybehavior behavior classpath
+upgrade the lesscode core core version
+bumped version to 2 . 4 . 1beta14 @ branch - specific
+add false pool to cloudbees cloudbees cloudbees
+removed develop develop develop develop develop develop develop branches from travis ci
+removed unused import
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+adding settings
+gh - <UNK> - attempt to use travis repository in travis
+fixed bug in selector () method
+bump the snapshot version to 1 . 0 . 3 - snapshot
+travis : remove jacoco - jacoco - aggregate jacoco should only use the jacoco directory
+fix shape for shape <UNK>
+fixed test
+platform 182 . 2574 : update version idea 2018 . 2 beta
+upgrade to latest specific 9
+<UNK> 8px 8px 8px 8px 8px # <UNK>
+ignore some <UNK> files
+add new pane pane webkit 8 , and fix for # <UNK>
+add comments for count_updater suppresswarnings suppresswarnings access
+add <UNK> to add password
+fixed <UNK> <UNK> for <UNK> ( issue # <UNK> )
+[ maven - release - plugin ] rollback the release of mahout - buildtools - 0 . 10 . 0
+bumped version to 2 . 2alpha82 @ branch - specific
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 1660 of 1660 strings )
+expose the method public , <UNK> the percentile percentile percentile percentile the method that are used for the first <UNK>
+add cobertura cobertura plugin
+translated using weblate ( serbian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+made to new new jviews jviews views views views https :// github . com / <UNK> / <UNK> / issues / <UNK>
+<UNK> <UNK> branch
+changed patch snapshot to 99 (# <UNK> ) signed - off - by : kai kreuzer < kai @ openhab . org >
+<UNK> sort sort sort sort sort sort sort sort sort as as <UNK>
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of <UNK> strings )
+git changeset : commit / svn : <UNK> / svn branch : 6 . 2
+updated linux <UNK> icon to be more <UNK> icon
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed test for <UNK> test change - id : <UNK>
+simple simple fcm ios
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 2195 of 2195 strings )
+[ maven - release - plugin ] prepare for next development iteration
+updated gradle core
+removed unused import from nsstring import
+upgraded to latest - 13 13 release
+bumped version to 2 . 5alpha6 @ branch - specific
+added todo cast to no duplicate duplicate duplicate <UNK>
+fixed <UNK> # <UNK>
+fixes a <UNK> <UNK> of mac mac <UNK>
+fixed readme
+fix build . gradle for <UNK> api
+fixed typo in require statement
+fixed <UNK> bug in postgresdatabase catalogname catalogexists catalogname catalogname <UNK>
+<UNK> that consuming consuming generated generated
+remove duplicate <UNK>
+translated using weblate ( german ) currently translated at 100 . 0 % ( 2094 of 2094 strings )
+fix screenshot in test
+upgrade to <UNK> 1 . 5 . 8
+make jsongenerator jsongenerator final final
+fixed ci failing after missing proguard + ( <UNK> )
+translated using weblate ( chinese ( simplified )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[# java ] update to latest version
+kiebasemodelimpl isdefault kiebasemodelimpl kiebasemodelimpl kiebasemodelimpl kiebasemodelimpl <UNK> to access to prevent the build class
+added <UNK> icons
+removed deprecated delete from lib_dir lib_dir jar
+added location location to private
+<UNK> : use xmlchars xmlchars char
+adding link to altbeacon 2 . 0 . beta
+adding check javadoc
+[ pom ] update derby derby 10 10 . 13 . 1 . 0
+change comp compilng compiling function for compiling function
+translated using weblate ( esperanto ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+<UNK> travis to <UNK> travis
+translated using weblate ( portuguese ( brazil )) currently translated at 100 . 0 % ( 1874 of 1874 strings )
+gif
+fixed generated generated
+removed spurious break in kafka <UNK>
+translated using weblate ( russian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added native to . gitignore
+right now inside - implementation - implementation for the the the the the the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the not the
+fixed eclimcomposite parent , to get the super checkstyle instead of the <UNK>
+add support to make the no fork no property
+fixed date
+add a readme
+gettext message when <UNK> gettext gettext gettext gettext
+bugfix # <UNK> , impltoolbar setfocustraversalpolicyprovider true can be initialized when <UNK> <UNK> is <UNK>
+edited wiki page downloads through web user interface
+cleaned for sync
+log , not build , not build yet
+bumped version to 2 . 3alpha2 @ branch - specific
+translated using weblate ( traditional chinese ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add changelog to current_rev changelog
+added missing <UNK> for samsungallshare . conf
+adding a <UNK> readme to the readme file
+[ artifactory - release ] next development version 3 . 0 . 2 . build - snapshot
+updated gif
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 2593 of 2593 strings )
+changed distclean distclean rm to distclean distclean rm
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 2538 of 2538 strings )
+expose mismatched node node node
+updated plugin version to 1 . 0 . 0 - snapshot
+fixed npe in reset when <UNK> <UNK>
+updated the readme and readme . md
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed wrong eac3to eac3to eac3to eac3to eac3to <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1745 of 1745 strings )
+fixed incorrect <UNK> in byte
+made () public so that it can be <UNK>
+committed <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+gradle 4 . 6
+[ gradle release plugin ] - pre tag commit : ' 0 . 8 . 0 '
+fix <UNK> ' s typo
+added isthisit isthisit ()
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bumped version to 2 . 6alpha15 @ branch - specific
+fixed multipartrequest remove remove remove remove remove remove remove remove method
+[ pom ] update tomcat9 to 9 . 0 . 0 . m26
+added current <UNK> flag for <UNK>
+<UNK> ()
+added some <UNK> for handlers test
+removed <UNK> <UNK> in <UNK> signed - off - by : kai kreuzer < kai @ openhab . org >
+updated drawable icon
+<UNK> the tostring ()); tostring for the active mode
+fixed bug in output () call
+translated using weblate ( arabic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( romanian ) currently translated at 100 . 0 % ( 186 of 186 strings )
+[ java ] upgrade to 3 . 22 . 0
+upgrade gradle to 1 . 7 (# <UNK> )
+add common - common dependency to pom
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ jboss - fuse - 6 . 1 . x 088 ] updating perfectus - build number to new build
+added kdd2015 kdd2015 doc
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+adding marcus marcus kielly kielly kielly kielly kielly to <UNK>
+added exit exit header to exit
+contributors to <UNK> wells brantley wells contributors
+start 1 . 0 . 3 - snapshot
+updating changelog
+trying to commit : upload 40 on travis
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1861 of 1861 strings )
+bumped version to 2 . 3beta7 @ branch - specific
+fixed <UNK> - <UNK> builds <UNK> error
+renamed update to update
+updated readme
+added no <UNK> to <UNK>
+setting maven - release - plugin to be maven <UNK>
+[ jboss - fuse - 6 . 1 . x 070 ] updating perfectus - build number to new build
+refactored with map <UNK> in <UNK> ()
+updated cassandra version to 1 . 2 . 2
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare release v0 . 4 . 9
+set the false <UNK> to false (# <UNK> )
+added always condition allow to detect gesturedetector true
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed the name of the super super super super
+bumped version to 2 . 2beta23 @ branch - specific
+[ maven - release - plugin ] prepare for next development iteration
+logger : fix <UNK> level level level
+bumped version to 1 . 1alpha22
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 1620 of 1620 strings )
+debug error
+add owners supportcardemos supportcardemos samples file
+fixed rfxcom rfxcom dependency in dependency signed - off - by : kai kreuzer < kai @ openhab . org >
+working on selenide 4 . 12 . 3
+runtime - core : fix # <UNK> ... <UNK> us <UNK> from this <UNK> will be <UNK>
+upgrade guava to 16 . 0
+[ jboss - fuse - 6 . 1 . x 175 ] updating perfectus - build number to new build
+include 1m 1m 1m wait for wait
+added libs
+add <UNK> for <UNK> to . gitignore
+armeabi app_abi app_abi app_abi app_abi app_abi app_abi only < sh < <UNK>
+updated gitignore
+bumped version to 1 . 0 . 5
+updated version to 4 . 5 . 1 - snapshot since we are <UNK> api for next release <UNK>
+gh - <UNK> fix updated
+imagefetcher imagefetcher 1 () () to return <UNK> ()
+added coveralls - maven - plugin to 4 . 0 . 0
+don ' t <UNK> <UNK> () when the clear component
+added sample pattern to docs
+remove debug statement
+changed version number to 8
+bugfix : <UNK> this first for <UNK> - <UNK> of <UNK> ()
+add <UNK> to <UNK> after <UNK> results
+layout , fixed pluginmain linearlayout background to use the <UNK> class to <UNK>
+removed duplicate line of condition that <UNK> is <UNK> for the end of the condition
+<UNK> apply apply apply to build
+<UNK> <UNK> fix for <UNK>
+updated example
+updated irc - api library , <UNK> with <UNK>
+<UNK> <UNK> event event to fix <UNK>
+removing unused import
+viewutils viewutils edittext edittext edittext
+<UNK> bugfix for transaction . . . <UNK>
+upgraded to latest 3 . 3 . 0
+session <UNK> . incrementserverpacketcount . incrementserverpacketcount session
+fix npe when changing component <UNK> flattentostring expected
+translated using weblate ( japanese ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+build 1 . 14 . 0 for 5 . 2 . 0
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix for the textbox textbox invalidate getcaretposition <UNK>
+added resizemode resizemode resizemode resizemode resizemode # <UNK>
+make <UNK> private
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+bugfix # <UNK> , runner resetclientdata reset in runner reset getprofilerclient getprofilerclient resetclientdata resetclientdata resetclientdata getprofilerclient getprofilerclient getprofilerclient resetclientdata getprofilerclient getprofilerclient getprofilerclient getprofilerclient getprofilerclient getprofilerclient getprofilerclient getprofilerclient getprofilerclient
+add the images
+add cloudbees job to readme . md
+updated changelog
+updated readme
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ fabric - <UNK> ] fixed npe in <UNK>
+updated selenium selenium java to 2 . 24 . 1
+[ maven - release - plugin ] prepare release v2 . 3 . 0
+translated using weblate ( catalan ) currently translated at <UNK> . 7 % ( <UNK> of 3062 strings )
+finish
+setresolvestrategy closure closure resolvestrategy resolvestrategy setresolvestrategy closure closure closure setresolvestrategy <UNK> ]
+dist target to include jars to run jars of <UNK>
+meetingscheduling gitignore
+<UNK> third third video
+fixed version of <UNK> <UNK> for <UNK> <UNK>
+fixed country jsonignore jsonignore import
+made <UNK> static
+updated ref spark spark spark
+upgrade to mybatis 3 . 0 . 3 fixes gh - <UNK>
+added returns getdbspl soundpressurelevel soundpressurelevel soundpressurelevel
+translated using weblate ( basque ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+try to fix <UNK> test
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+// fixed # 2
+added a close <UNK> files
+<UNK> min
+[ java ] update version in readme . md
+add pr for pr release
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+changed to stringbuilder stringbuffer stringbuilder stringbuilder stringbuilder stringbuilder <UNK> of <UNK> <UNK>
+<UNK> the <UNK> when <UNK> the slice db
+added build to checkalive sleep in checkalive checkalive script
+edited release notes
+use the <UNK> version of the build library
+added a version of maven - gpg - plugin to 1 . 4
+add readme for pr
+add todo to todo
+https :// github . com / <UNK> / maxwin / commit / 65
+fix /*/ script in before_script_postgres script
+always listener the <UNK> <UNK> if we use the <UNK> to get it if the <UNK> is <UNK>
+update . ds_store to support list that was copied up on all <UNK>
+bumped version to 0 . 4 . 0
+added upgrade to upgrade to readme
+<UNK> <UNK> logging to additional more lazy lazy lazy
+added <UNK> <UNK>
+fixed condensed el el widget script
+add . clover . clover to . gitignore
+translated using weblate ( sardinian ) currently translated at <UNK> . 7 % ( <UNK> of <UNK> strings )
+getprimaryrecipient getids intent <UNK>
+add /. idea idea folder to gitignore
+level level level of level level
+use the <UNK> <UNK> to use the getdimension context
+update hazelcast hazelcast plugins - plugins hazelcast hazelcast hazelcast fix examples
+add deprecated deprecated deprecated function
+fix typo in log log
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed unused import
+fixed npe when <UNK> <UNK>
+1 gradle wrapper
+upped 0 . 111 branch
+translated using weblate ( slovak ) currently translated at 95 . 2 % ( <UNK> of 3062 strings )
+translated using weblate ( russian ) currently translated at 93 . 5 % ( <UNK> of 641 strings )
+[ maven - release - plugin ] prepare for next development iteration
+added <UNK> delete to update test
+updated to latest drlvm commit - vts commit
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( 2094 of 2094 strings )
+updated readme
+removed redundant close statement
+updated changelog for the <UNK> <UNK>
+translated using weblate ( argentinean spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix <UNK> <UNK> on push signed - off - by : <UNK> bukhari < bukhari @ <UNK> . de >
+added <UNK> to kubernetes - api and <UNK>
+translated using weblate ( lithuanian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+removed unused private method
+print out stacktrace stacktrace stacktrace
+[ java ] update version . txt to reflect <UNK> release
+fixed npe in computermanagerservice mdns onunbind intent () when <UNK> <UNK> <UNK>
+updating mvnw maven_cmd_line_args echo
+build image
+translated using weblate ( polish ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( russian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added missing dependency to fabric - osgi
+changed the ` kitkat kitkat kitkat ismenuworkaroundrequired ismenuworkaroundrequired kitkat kitkat kitkat . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean . jelly_bean
+handled server auto - generated method
+changed to next version of 0 . 1 . 0 for compatibility - <UNK>
+add linux users to guides guides must are <UNK> to guides mac <UNK>
+fixed <UNK> to include <UNK> <UNK> <UNK> (# <UNK> ) change - id : <UNK>
+fixed <UNK> <UNK>
+[ drools - <UNK> ] avoid <UNK> to <UNK> data <UNK> when <UNK> <UNK> is updated
+added readme . txt
+trying to use the pull coverage / roaringbitmap / 322257170 / 322257170 / 322257170 / 322257170 / 322257170 / 322257170 / 322257170 / 322257170 / 322257170 / 322257170 / 322257170 / <UNK>
+try to fix close code
+translated using weblate ( russian ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+shadow : shadow <UNK> for shadow - tests
+[ pom ] update xstream . thoughtworks to 1 . 4 . 9
+bump version
+upgrade gradle plugin
+[ maven - release - plugin ] prepare release v2 . 0 . 1
+menu_tr menu_tr <UNK> at menu_tr search <UNK>
+don ' t run on staging staging staging staging staging <UNK>
+pr on changelog for 4 . 9 . 1
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updating changelog for custom icon
+adds screenshots
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( esperanto ) currently translated at 99 . 7 % ( <UNK> of 3102 strings )
+added repository
+edited readme . md
+allowed travis to remove the <UNK> if it is not <UNK> for the wait is <UNK> for the <UNK>
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( 2757 of 2757 strings )
+upgraded maven - site - plugin to 2 . 1 . 1
+unused import
+fixed issue <UNK> to <UNK> the date string if the background is <UNK>
+bump to next version
+fixed npe in getauthor author when <UNK> () if no author is null
+forgot prerequisites maven version
+opening up v0 . 2 . 2 development
+[ maven - release - plugin ] prepare release docx4j - 3 . 3 . 6
+added missing gitignore for the <UNK>
+release ' 0 . 10 . 0 '
+[ maven - release - plugin ] prepare release 0 . 1 . 2
+inlineschematree java 1 . 6 : isempty isempty isempty . isabsolute <UNK>
+bumped version to 2 . 4alpha35 @ branch - specific
+translated using weblate ( swedish ) currently translated at 99 . 5 % ( <UNK> of <UNK> strings )
+fixes # <UNK>
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( 2453 of 2453 strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 1890 of 1890 strings )
+fixed a <UNK> <UNK> dependency in the honeycomb label tool
+removed unused this
+upgrade gradle version
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+changed the rsyntaxarea artifactid dependency for rsyntaxarea artifactid
+git - svn - id : https :// only . mawhrin . net / repos / fbreaderj / trunk @ <UNK> 6a642e6f - 84f6 - 412e - ac94 - c4a38d5a04b0
+updated repository to latest distziphadoop1 distziphadoop1 hdfs hdfs repository https :// github . com / <UNK> / repository / issues / <UNK>
+fixed url page
+release 1 . 3 . 0
+added missing return statement to clear for the upset the upset the upset the array of <UNK>
+added eclipse dependency to build build
+translated using weblate ( hungarian ) currently translated at 100 . 0 % ( 3062 of 3062 strings )
+fixing path to build . properties
+error
+change screenshots
+remove unused <UNK> config file
+updated readme . md to include screenshots that can be <UNK>
+[ maven - release - plugin ] prepare release v2 . 1 . 6
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+try to fix jetty - maven - plugin on the jetty <UNK>
+removed <UNK> to use users ' s <UNK>
+updated gitignore
+added <UNK> for <UNK>
+fixed incorrect <UNK> of <UNK> to <UNK> <UNK> <UNK>
+updated parent pom
+using font for size
+fixed incorrect pool for <UNK> pool
+add a comment for the javadoc
+updating license to latest new license
+fixed incorrect svn changeset : <UNK> / svn branch : 6 . 5
+change to the first tool
+[ maven - release - plugin ] prepare release avaje - ebeanorm - server - 3 . 1 . 2
+eca eca module to generate <UNK> <UNK>
+updated to fluido 1 . 3 . 1
+fixes # <UNK> svn changeset : <UNK> / svn branch : trunk
+update gif
+fixed bug in visitenum . visitenum visitenum visitenum annotationenumelem <UNK> )
+improved support for <UNK> support on panasonic <UNK>
+<UNK> ' data '
+<UNK> () to test if test is test
+translated using weblate ( ukrainian ) currently translated at 100 , 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( turkish ) currently translated at 15 . 4 % ( <UNK> of <UNK> strings )
+add manifest for manifest - module
+added some comments
+fixed layout <UNK> <UNK> <UNK> <UNK>
+fixing typo in jsecuritytestteststeplist panels jsecuritytestteststeplist getmodel panels ] https :// github . com / soapui / soapui / commit / <UNK>
+translated using weblate ( sardinian ) currently translated at <UNK> . 5 % ( <UNK> of <UNK> strings )
+added thumbs db . db to . gitignore
+removed unused code in stringutil code
+translated using weblate ( slovenian ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+<UNK> version
+working on selenide 4 . 11 . 3
+bumped version to 2 . 5 . 2 @ branch - specific
+[ java ] upgrade to mockito 1 . 10 . 19
+clear the fillclasslist fillclasslist fillclasslist card card card card card materiallistviewadapter fix fix : bug : <UNK> test : fix <UNK> change - id : <UNK>
+updating to bom version 1 . 10 . 32 - snapshot , <UNK> version
+fix c
+git - svn - id : https :// only . mawhrin . net / repos / fbreaderj / trunk
+translated using weblate ( argentinean spanish ) currently translated at 100 . 0 % ( 1745 of 1745 strings )
+[ artifactory - release ] next development version 3 . 1 . 7 . build - snapshot
+translated using weblate ( catalan ) currently translated at <UNK> . 5 % ( <UNK> of 3062 strings )
+renamed to use the <UNK> maven pom
+fix <UNK> - <UNK> <UNK> <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+remove duplicate position call
+removed old serial deprecated deprecated deprecated deprecated svn changeset : <UNK> / svn branch : 6 . 7
+[ maven - release - plugin ] prepare for next development iteration
+== ==
+translated using weblate ( <UNK> ) currently translated at 0 . 7 % ( <UNK> of <UNK> strings )
+upped apk
+add <UNK> test
+added missing readme
+iscrolltable null check check ( <UNK> was <UNK> once ) svn changeset : <UNK> / svn branch : trunk
+trying to fix deploy deploy build
+<UNK> l4j phase
+fixed testgithubissue5 test
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+<UNK> todo
+updating to latest release of scribe scribe issue
+updated build in dist
+changed travis to take coverage jdk 8 for <UNK>
+bumped version to 2 . 4 . 1beta21 @ branch - specific
+added indentation indentation indentation indentation indentation indentation module
+mvn : updates libjitsi
+fixed typo in spark fetchers spark fetchers spark
+updated readme
+added android arsenal badge
+fix travis build
+translated using weblate ( arabic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add <UNK> . rc to . gitignore
+deleted . swp .
+readme
+fix "/>'; border <UNK>
+fixed bug in nonspeechfilter . <UNK> () that <UNK> the null string in the <UNK> ()
+expm1 expm1 ix ix ( fix # 29 )
+set url for oss iovertx url
+updates the junit bundle to fix <UNK>
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+<UNK> gitignore
+updating readme . md to <UNK> to fix readme issue
+fixed problem with the variables <UNK> / <UNK>
+use 3 . 2 . 2 3 xmlchangelogsaxparser 3 . 1 , 3 . 0 , the build version to build
+readme
+added the distcp distcp - ng . md
+fixed wrong bytes <UNK>
+updated the readme version to 3 . 0 . 4
+updated ignition support to use ignition ignition core
+[ maven - release - plugin ] prepare for next development iteration
+<UNK> default the project to project if the <UNK>
+removes (!( off splash systemutils systemutils splash
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add @ test
+remove thumbnailcreator thumbnailcreator thumbnailcreator thumbnailcreator https :// , . net @ <UNK> @ <UNK> - t - <UNK> - <UNK>
+bumped up gradle plugin to 1 . 8
+translated using weblate ( <UNK> ) currently translated at 36 . 5 % ( <UNK> of <UNK> strings )
+translated using weblate ( french ) currently translated at 99 . 9 % ( <UNK> of 2583 strings )
+removed . idea / workspace . xml from the gitignore
+fix test
+enabled automatic updating on windows to 2 . 6 . 2
+translated using weblate ( russian ) currently translated at 98 . 8 % ( <UNK> of <UNK> strings )
+fix bug where tangram onmaporientation mapcontrols onmaporientation mapcontrols mapcontrols mapcontrols tangram tangram , , <UNK> was <UNK>
+translated using weblate ( catalan ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+returntypecanbedeclaredinspector php loop <UNK> in returntypecanbedeclaredinspector returntypecanbedeclaredinspector [ cases ] <UNK> : resolved strings
+bump version
+translated using weblate ( russian ) currently translated at 94 . 5 % ( <UNK> of <UNK> strings )
+removed <UNK> . dp context
+update remote settings settings
+<UNK> ()
+added null statement
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare for next development iteration
+removes trace trace trace
+include the <UNK> test form
+changed to api <UNK> for <UNK> in the todosyncclient darwinsys pom
+add intellij idea files to gitignore
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+check if the reason reason reason reason connection is null
+fixed the " <UNK> " region region on https :// github . com / <UNK> / ibeacon - commit / commit / <UNK>
+bumped version to 2 . 4 . 1beta20 @ branch - specific
+changed travis config
+<UNK> byte 1 1 <UNK> to avoid <UNK> from <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+added slf4j dependency
+api : remove clone unused clone from abstractgoogleclientrequest clone implementation
+make this 2 . 6 . 14beta
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+loader the loader is <UNK>
+translated using weblate ( kabyle ) currently translated at 21 . 0 % ( <UNK> of <UNK> strings )
+updated 24 tools
+[ maven - release - plugin ] prepare for next development iteration
+[ gradle release plugin ] - new version commit : ' 0 . 22 - snapshot '
+bumped version to 0 . 9 . 10
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+edited release notes
+updated jabref_tr . properties ( fixes # <UNK> )
+<UNK> <UNK> / nsis . properties to include <UNK> <UNK>
+updated the readme to 1 . 8
+fixed <UNK> <UNK> # <UNK> change - id : <UNK>
+translated using weblate ( norwegian bokml ) currently translated at 74 . 7 % ( <UNK> of 1636 strings )
+updated to the latest version
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( 2331 of 2331 strings )
+upgrade to compileonly api
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( 3323 of 3323 strings )
+translated using weblate ( slovak ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+v0 . 3 . 0
+gh - <UNK> - remove unused travis 8
+translated using weblate ( hebrew ) currently translated at 99 . 8 % ( <UNK> of 3181 strings )
+runtime - config <UNK> : declare <UNK> and <UNK>
+<UNK> <UNK> <UNK> readme , and <UNK> numbers
+fix issue <UNK> ( <UNK> issue )
+release 1 . 0 . 0
+updated the readme for readme
+bumped version to 2 . 0 . 2beta6
+removed unused import
+updated the latest released - zip version in the example
+logo ( readme )
+clean up - <UNK> properties
+set javadoc to mvn javadoc
+<UNK> : <UNK> class
+add group / ref ( for # <UNK> )
+<UNK> zookeeper <UNK>
+added travis support
+translated using weblate ( argentinean spanish ) currently translated at 100 . 0 % ( 1861 of 1861 strings )
+fixed <UNK> tag to use ' embed html >"); >"); >"); append svn changeset : <UNK> / svn branch : 6 . 8
+fixed a bug in abstractscreen . <UNK>
+platform 173 . 4652 minor
+exclude one for pom (# <UNK> )
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 4 . 6 . 1
+use an new antrun antrun plugin for the maven plugin plugin
+remove stickygridheaders library 1 . 0 jar
+remove gitattributes gitattributes gitattributes . bat
+add componentnode class for componentnode classstr componentnode class - id : <UNK>
+deleted eclipse classpath
+add a <UNK> check to keys for <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( sardinian ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+updated changelog
+bumped version to 1 . 0beta31
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed commented from the impl of the impl
+changed compatibility version to android +' 23 . support
+fixing error in device service
+translated using weblate ( arabic ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+v0 - beta2 13 - beta2
+adding link to groovy
+updated parent to 1 . 0 . 1 - snapshot
+translated using weblate ( japanese ) currently translated at 55 . 8 % ( <UNK> of 3062 strings )
+v1 . 5 . 0
+[ maven - release - plugin ] prepare release unirest - java - 1 . 4 . 5
+check for classifier null
+updated to latest commons - commons - 3 . jar
+add idea_version - - 15 2016 travis ci
+removed the chrome <UNK> in build . gradle
+updated gif
+[ java ] update version in readme . md
+[ jboss - fuse - 6 . 1 . x 204 ] updating perfectus - build number to new build
+<UNK> alpha version to better reflect better our our connection better
+<UNK> <UNK> section section
+translated using weblate ( norwegian bokml ) currently translated at 98 . 9 % ( <UNK> of <UNK> strings )
+fix <UNK> time for <UNK> bug
+clean - up
+building 5 . 0 . 0 - alpha svn changeset : <UNK> / svn branch : trunk
+implement close instance <UNK>
+<UNK> 1 . 6 release date
+add another test
+java 1 , to get one more java 7 , not 1 . 0
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+release 0 . 1 . 2
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of 1474 strings )
+translated using weblate ( hungarian ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+fix initial frame frame frame timeoutdoubleclick : <UNK> , 4 . 4 mode mode , not moving to fetch a initial <UNK> , but it doesn ' t <UNK> to date
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( esperanto ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+gh - <UNK> - updated writeunsorteddata ioexception catch to <UNK>
+fixed a bug in display () method
+travis : <UNK> <UNK> - <UNK> <UNK> fix
+signed - off - by : jeeeyul < jeeeyul @ gmail . com >
+[ pom ] update checkstyle to 7 . 2
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+fix : <UNK> the <UNK> <UNK> for <UNK>
+[ website ] build_site build_site . sh
+added mqtt mqtt transport feature (# <UNK> ) signed - off - by : kai kreuzer < kai @ openhab . org >
+add catch <UNK>
+fix # <UNK> <UNK> : use the length of the preferredsize preferredsize preferredsize 4
+[ jboss - fuse - 6 . 1 . x 130 ] updating perfectus - build number to new build
+<?>[] intercepthandler class
+disabling sure we throw the task . getcategory . <UNK>
+remove ignition ignition location location in <UNK>
+add force for dlog4j log4j log4j on <UNK>
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> adding class classpath
+replaced 1497031200 invalid to invalid for invalid loop
+try to get <UNK> class by default
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+unused import removed
+disabled <UNK> location module for ignition location
+upgrade to latest version of 2009 - c
+update readme
+add <UNK> images
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+fix <UNK> on reviewer reviewer . java
+readme
+updates plugin icon to add folder for <UNK>
+fixed wrong character of argument readme
+replaced node signature to be <UNK>
+log the warning when <UNK> <UNK> the <UNK> is <UNK>
+<UNK> scm : scm all the <UNK> is <UNK>
+prepare for 1 . 1 release
+added travis support
+add the *. *. iws iws *. to gitignore
+travis ci
+release 3 . 0 . 0 - rc - 1
+added <UNK> icon for nodpi nodpi <UNK> layout
+changed the python python python python python python python python python python python python python python to make a obsolete python python
+<UNK> upload svn changeset : <UNK> / svn branch : toolkit
+fixed typo in the <UNK> of webdavliteservlet mapping
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare release apns - 0 . 1 - snapshop
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( czech ) currently translated at 98 . 8 % ( <UNK> of <UNK> strings )
+fix <UNK> script for ope openfire openfire openfire local
+upgraded to <UNK> hateoas 0 . 6 . 0 . build - snapshot
+added the google *. *. *. to . gitignore
+[ maven - release - plugin ] prepare release mango - 1 . 2 . 2
+<UNK> test
+bump version
+add jcommander dependency
+changed version number to 14
+gradle gradle plugin to 2 . 3 . 3
+translated using weblate ( catalan ) currently translated at 100 . 0 % ( 1993 of 1993 strings )
+check <UNK> if no <UNK> is null
+removed unused import
+enabled for the javadoc < me < me to make some correct parameter that would be included to wording wording
+translated using weblate ( german ) currently translated at 99 . 3 % ( <UNK> of <UNK> strings )
+updated changelog
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+git - svn - id : https
+apk
+fixed npe in triview triview ignorecombochanged ignorecombochanged ) triview triview <UNK> null null
+add <UNK> <UNK> to sample sample
+prepare for release v2 . 6 . 1
+signed - off - by : jeeeyul < jeeeyul @ gmail . com >
+[ maven - release - plugin ] prepare for next development iteration
+upgraded jooq jooq jooq version have to latest <UNK>
+translated using weblate ( french ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+v0 . 8
+removed unnecessary print of jdbcstring jdbcstring dbs build script
+translated using weblate ( russian ) currently translated at 94 . 5 % ( <UNK> of <UNK> strings )
+sql
+[ jboss - fuse - 6 . 1 . x 376 ] updating perfectus - build number to new build
+fix a typo in test
+transport upgrade
+bumped version to 2 . 5beta5 @ branch - specific
+added <UNK> app
+added reviewboardrc . reviewboardrc x
+fixed npe in char check
+<UNK> 1 . 1
+updated readme
+[ maven - release - plugin ] prepare for next development iteration
+bumped version to 2 . 9alpha29 @ branch - specific
+update the project version to 0 . 68 . 1 - snapshot
+added missing plugin - deploy - plugin for samples - plugin
+use 3 . 5 , so that we ' s version and <UNK> number
+fixed the copy of the last last directory
+translated using weblate ( german ) currently translated at 100 . 0 % ( 2757 of 2757 strings )
+api : use <UNK> instead of response for <UNK> (# <UNK> )
+[ fabric - <UNK> ] fixed <UNK>
+updated changes . 1
+<UNK> <UNK> )"); )"); wired wired wired wired wired wired )"); automatic <UNK>
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( 3323 of 3323 strings )
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix crash in <UNK> . deck
+make bz2 bz2 bz2 , go to make sure
+preparing for 0 . 11 . 11 rc
+lintoptions lintoptions lintoptions lintoptions lintoptions
+removed demo annotation svn changeset : <UNK> / svn branch : trunk
+fixed javadoc
+arrayvalidator . additionalitems final : make final error
+translated using weblate ( german ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ pom ] update javax . servlet . jstl - b03
+[ maven - release - plugin ] prepare for next development iteration
+[ maven - release - plugin ] copy for tag lenskit - 1 . 2
+fixed gettoken username in gettoken get
+adds jitsi to jvb log
+updates control
+set snapshot year for false
+add detektcheck detektcheck ktlint lint
+translated using weblate ( russian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( arabic ) currently translated at 45 . 5 % ( <UNK> of 2755 strings )
+[ maven - release - plugin ] prepare release mango - 1 . 06
+add <UNK> - api to the ignore profile
+removed jdk <UNK> from travis config
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1636 of 1636 strings )
+removed <UNK> thing in checkstyle
+added jspeex home to the build
+fixed typo in eclimdoc eclimdoc eclimdoc content 2
+fixed typo (# <UNK> ) change - id : <UNK>
+fixed npe in osmandmaptileview . isinzoommode isinzoommode isinzoommode () ()
+fix wrong gradle version
+going to fix 2 . 0 . 0 - snapshot ( due to dev strings )
+trying to fix travis build
+translated using weblate ( german ) currently translated at 100 . 0 % ( 3062 of 3062 strings )
+travis - 8
+bump to tika 1 . 0 release
+[ gradle release plugin ] - pre tag commit : ' 0 . 1 . 0 '
+fixed wrong <UNK> <UNK>
+adds <UNK> <UNK> native lib for linux 64
+updates ice4j to <UNK>
+added maven ant to readme
+changes readme to reflect release name in readme
+<UNK> the 5 take to gridx 5 , so that it ' s reflect an first size
+always use <UNK>
+<UNK> <UNK> () for <UNK> (# <UNK> )
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 6 . 8 . 1
+removed duplicate license from readme
+added support to setshifted code in this code
+remove <UNK> from aac test
+translated using weblate ( slovenian ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+gitignore ds_store only from drools - scorecards files
+updates ice4j to <UNK>
+allowbackup allowbackup application for allowbackup android
+updated the build tools version
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( 3497 of 3497 strings )
+fixed checkstyle
+translated using weblate ( russian ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+update apk
+gif
+translated using weblate ( polish ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 1648 of 1648 strings )
+updated syncthing to v0 . 14 . 32
+starting version number in <UNK>
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated to stax stax stax version of stax batch pom . xml
+minor , change to error
+fix <UNK> in pom . xml
+validationstatus schema ... a <UNK> was <UNK>
+removing unused import
+java shapeoffsetresolution arr indarrayindex shape
+add a ant ant file
+<UNK> shouldn <UNK> can be <UNK> to resolve by db <UNK> ( <UNK> <UNK> files )
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix traversalutil getany getany getany getany getany getany getany return @ 50
+fixed a small used in the acspdfdownload copyright
+incrementing version . txt in trunk with trunk in 8 . 8
+added button to input button to <UNK> # <UNK> ( <UNK> ) svn changeset : <UNK> / svn branch : 6 . 6
+updated changelog
+translated using weblate ( polish ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+upped version svn changeset : <UNK> / svn branch : 6 . 5
+removed a <UNK> bucketcount bucketcount bucketindex ' t exist
+fixed the build build
+translated using weblate ( catalan ) currently translated at 99 . 9 % ( <UNK> of 1638 strings )
+<UNK> the checkstyle of the ignore of the ignore . maxlinelen file is trying
+bumped version to 2 . 5alpha1 @ branch - specific
+updated changelog
+translated using weblate ( lithuanian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] copy for tag release - 0 . 6
+fixed jfreechart jfreechart exclusion exclusion exclusion exclusion on lint
+translated using weblate ( french ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( esperanto ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+fix : <UNK> the cc timeserieslogger timeserieslogger timeserieslogger
+[ gradle release plugin ] - new version commit : ' 2 . 4 - snapshot '
+updated gradle to v0 . 14 . 45
+added the <UNK> android_api_version android_api_version android_api_version android_api_version android_api_version android_api_version <UNK> to only off with scene apk
+added androidpn androidpn androidpn androidpn readme
+removed ' font ' var `
+translated using weblate ( sardinian ) currently translated at <UNK> . 7 % ( <UNK> of <UNK> strings )
+translated using weblate ( japanese ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+added todo
+upgraded maven - shade - plugin from 2 . 4 . 3 to 3 . 0 . 0
+handle <UNK> case when special case <UNK>
+updated readme
+<UNK> 10
+update readme
+<UNK> - <UNK> . html
+translated using weblate ( traditional chinese ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+set status 0 . 1 . 0 codecov
+rm <UNK> to soapui_in_the_news soapui_in_the_news build script
+added the badge to badge on readme
+fix blog blog in parent blog
+added missing jvm . optionalsafepoint . queue jvm jvm . optionalsafepoint jvm
+remove log
+add customtarget gif
+translated using weblate ( norwegian bokml ) currently translated at 8 . 5 % ( <UNK> of <UNK> strings )
+release 0 . 7 . 9
+added initial tests to scripts
+bumped version to 2 . 6alpha16 @ branch - specific
+adds second for remote <UNK> presence to be 1 , and 1 and strings strings
+reduce the expected level of lambdaclassgenerator reftype getclassname getclassname <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( slovenian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+<UNK> : <UNK> positivebutton positivebutton dialog
+translated using weblate ( catalan ) currently translated at <UNK> . 5 % ( <UNK> of <UNK> strings )
+fixed incorrect @ <UNK>
+updated gradle
+docs : remove dead files
+updated the readme file
+bumped version to 2 . 3beta17 @ branch - specific
+fix
+added <UNK>
+avoid to # <UNK> ( <UNK> )
+updated changelog
+todo
+gh - <UNK> bug bug
+translated using weblate ( bulgarian ) currently translated at 15 . 9 % ( <UNK> of 2338 strings )
+fix error message
+fixed <UNK> <UNK> to allow more more <UNK> svn changeset : <UNK> / svn branch : trunk
+<UNK> () is <UNK>
+split - up : update to droolsjbpm plugins instead of drools
+[ <UNK> ] <UNK> # %% g should not support %% %% %% g
+sort sort collections <UNK>
+<UNK> branch
+readme
+removed unnecessary comments from jsonserializer model
+fixed a bug in <UNK> where a previous <UNK> would be <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+upgrade build - tools to <UNK> . 0 . 3
+translated using weblate ( catalan ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+v3 . 5 . 0
+add hdfs build
+updating to bom version 1 . 15 . 26
+removed anomaly json from the makefile from kubernetes branch
+updated changelog
+<UNK> deprecation deprecation ") to avoid deprecated issues
+<UNK> menu menu to avoid null of annotation <UNK>
+removed plugin plugin to build list
+update docs
+fixed npe when attempting to update cubeservice updated cube
+<UNK> class <UNK> when <UNK> is <UNK>
+remove supportv4coreui supportv4coreui . gradle from the library list
+make this 2 . 8 . 3beta
+fix ant tests when <UNK> test / <UNK> : <UNK> parameters pass / <UNK> : <UNK> gradlew change - id : <UNK>
+added vertx vertx vertx service
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 6 . 10 . 2
+increase 2 instances to <UNK> number
+[ java ]: upgrade to 1 . 0 . 14
+fixed incorrect example
+upgraded to latest perfectus
+added build build
+make private as protected
+bugfix for https :// github . com / tagkit / tagkit . issues / <UNK>
+updated hamcrest <UNK> image
+translated using weblate ( belarusian ( latin )) currently translated at 100 . 0 % ( 2538 of 2538 strings )
+bumped version to 2 . 3alpha31 @ branch - specific
+[ maven - release - plugin ] prepare for next development iteration
+<UNK> <UNK> in gradle <UNK>
+default color to add_to_homescreen_icon_background add_to_homescreen_icon_background color in <UNK>
+updated readme
+[ pom ] update docker - maven - plugin to 0 . 18 . 1
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed <UNK> break on dbutil h2dialect break
+fixed npe in dataset component method
+<UNK> normalize example <UNK>
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+remove <UNK> from <UNK>
+updated readme
+changes the button message when the inverse inverse inverse inverse button
+fixed test
+fixed iosimplementation null method
+fixed tlsecdhekeyexchange <UNK> of sect283r1 sect233r1 namedcurves namedcurve tlsecdhekeyexchange tlsecdhekeyexchange <UNK> at next
+updated netty to 4 . 0 . 27
+<UNK> artifacts
+add a islge () method to device <UNK>
+[ stack ] add missing dependency for sdk build
+changes <UNK> to data / container
+add new images images
+removed unused test
+fix for deploymentserviceimpl isempty formkey formkey isempty isempty deploymentserviceimpl https :// github . com / <UNK> / <UNK> / issues / <UNK>
+translated using weblate ( serbian ) currently translated at 100 . 0 % ( 146 of 146 strings )
+add helper helper for dummy <UNK>
+remove <UNK> <UNK> from <UNK>
+release 1 . 4 . 1
+[ maven - release - plugin ] prepare release unirest - java - 1 . 4 . 2
+edited wiki page frequentlyaskedquestions through web user interface
+changed <UNK> to dhgarrette dhgarrette email
+fix show <UNK> <UNK>
+updated changelog
+bump to jackson 0 . 4 . 0
+update okhttp okhttp3 3 . 2 . 0
+upgrade to build script to 1 . 1 . 3
+add screenshot
+bump version
+archetype - mariadb : fix version of archetypes mariadb 1 . 0 . 1
+implemented jni getcomponenttype getcomponenttype reflect <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+implemented <UNK> in baserequest baserequest . gethttprequest . httprequest . httprequest . httprequest . <UNK>
+updated todo
+[ maven - release - plugin ] prepare release 0 . 2 . 0
+issue <UNK> : start to to off / write to support projects
+added cname cname cname cname site <UNK>
+fixed encodedimage <UNK> to use the correct string
+removed unused log
+[ kie - <UNK> ] add import packages to kie - ci - osgi to allow connection to https repository
+added <UNK> against guidedactionadapter guidedactionadapter guidedactionadapter guidedactionadapter <UNK>
+fix <UNK> <UNK> typo
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> <UNK> former - commit - id : <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+corrected width svn changeset : <UNK> / svn branch : trunk
+added <UNK> to the list of directories <UNK>
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( 2094 of 2094 strings )
+[ pom ] change pom . xml to include <UNK> files
+fix test
+prepare for 2 . 7 . 8
+added csharp_dal_iquery_sample . png
+updated gif
+put <UNK> in <UNK>
+[ pom ] add missing quickstarts quickstarts quickstarts exclude
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+prepare for 0 . 3 snapshots
+added more text to todo
+removed unneeded recorditerator recorditerator recorditerator recorditerator recorditerator # 55 from https :// github . com / <UNK> / titan - commit / <UNK>
+fixed <UNK> image
+using the 4 method to function instead of 4 ()
+platform 181 . 5281 : update version idea 2018 . 1 . 5 release
+<UNK> the <UNK> class by default
+corrected documentation link link to https :// github . com / ps3mediaserver / ps3mediaserver / commit / <UNK>
+update changelog
+fixed the build target for deprecated fail
+gh - <UNK> - updated example file
+translated using weblate ( german ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+forgot to commit changelog
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 2357 of 2357 strings )
+update changes
+fixed the build target
+added out out to . gitignore
+updated library version in readme
+changed openstreetmaptileproviderconstants openstreetmaptileproviderconstants false to false
+allow to allow the correct line for array of <UNK>
+updated irc - api library to rev
+fixed bug in readint ()]; read . <UNK> ()
+updated changelog
+<UNK> readme
+add support to size of mvpdelegate mvpdelegate when removing <UNK> from mchilddelegates < <UNK>
+unused import
+<UNK> <UNK> form
+reduce debug level to debug
+[ maven - release - plugin ] prepare release mango - 1 . 02
+fixed the gem to be available
+fix 1 . 0 . 25
+clean up test clean
+continue the lib development in 0 . 7 - snapshot
+translated using weblate ( italian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed a possible <UNK> from setnotices setnotices exception
+fixed dialog page
+add <UNK> <UNK> types for filter <UNK>
+add fpie fpie fpie fpie fpie fpie <UNK> without <UNK>
+translated using weblate ( czech ) currently translated at 98 . 8 % ( <UNK> of <UNK> strings )
+fixed history resource <UNK> bug
+[ maven - release - plugin ] prepare for next development iteration
+[ maven - release - plugin ] prepare release zt - zip - 1 . 7
+added nistctstest nistctstest nistctstest test
+translated using weblate ( russian ) currently translated at 98 . 8 % ( <UNK> of <UNK> strings )
+support comma column added to partition for statements
+removed old icu4j icu4j icu4j icu4j icu4j class
+update stop_searching_street_with_multiplier_radius log
+get buildtoolsversion buildtoolsversion buildtoolsversion buildtoolsversion
+correct initial string to 100 <UNK> 100
+default ndkbuilddirectory ndkbuilddirectory default to ndkbuilddirectory ndkbuilddirectory <UNK>
+default default default to true
+fixes a <UNK> of <UNK> . py docs
+updates libjitsi . jar ( built on
+upgrade to 2 . 3 . 0
+spanner sessionpool spanner }", level to 0 , to <UNK> 0 . 0 (# <UNK> )
+removed redundant case from rescantransactionstorequest rescantransactions rescantransactions can have been <UNK> to <UNK> them
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ kodi kodi <UNK> ] fix <UNK> <UNK> (# <UNK> ) signed - off - by : karel goderis < karel . goderis @ me . com >
+update the readme . md to run <UNK> has suite a junit a able are robolectric with robolectric robolectric with robolectric robolectric able
+mvn : updates jitsi - desktop . version
+updated changelog
+remove a redundant cc cc cc cc cc valid at https github . com / <UNK> / <UNK> - plugins / issues / <UNK>
+bump lucene to 6 . 1 . 0
+translated using weblate ( slovak ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+remove arquillian module
+added bitronix bitronix logs " to . gitignore
+remove delegatingqueryable class
+[ maven - release - plugin ] prepare for next development iteration
+remove unused test test
+bump build version to <UNK> # <UNK>
+added blazar yaml . yaml file
+added 3 .** 3 and contributors to readme
+<UNK> recyclerview recyclerview package
+remove coordination . atomix . coordination coordination coordination license
+[ jboss - fuse - 6 . 1 . x 114 ] updating perfectus - build number to new build
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix <UNK> . flags for <UNK>
+preparing for <UNK> rc of 1 . 0 . 1
+add waffle . io to readme . md
+mvn : updates ice4j
+translated using weblate ( arabic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed wrong test in test test
+<UNK> <UNK> when localhost server . get
+updated version to 5 . 0 . 0 - b2
+unknown the null check if we can ' t be null
+translated using weblate ( russian ) currently translated at 94 . 5 % ( <UNK> of <UNK> strings )
+fixed import
+v1 . 8 . 0
+fixed bug in downloadactivity tab <UNK> when <UNK> <UNK>
+[ jboss - fuse - 6 . 1 . x 037 ] updating perfectus - build number to new build
+<UNK> task
+<UNK> getpagewidth position
+[ jboss - fuse - 6 . 1 . x 170 ] updating perfectus - build number to new build
+removed distribution from distribution
+v1 . 5
+bumped version to 0 . 8 . 2
+fix <UNK> <UNK> <UNK> bug ( <UNK> )
+updated version numbers
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( 2094 of 2094 strings )
+updated jbot example / 3 . 0 . 0
+<UNK> 7
+raft raft session . setlastheartbeattime . java . leaderrole . leaderrole to leaderrole leaderrole leaderrole trace . setlastheartbeattime . raft
+added example
+translated using weblate ( basque ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add putcollection putcollection context to abstractcollectionservice abstractcollectionservice <UNK> ]
+adding a <UNK> adraddress representation of placedetails representation representation representation <UNK> are <UNK> - <UNK>
+<UNK> version to 1 . 2 . 1 - alpha
+upgrade a 14 version
+fixed broken build
+mvn : updates libjitsi
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( russian ) currently translated at 98 . 8 % ( <UNK> of <UNK> strings )
+<UNK> javassist javassist jar was
+disabled junit dependency
+fixed issue with geo <UNK> on string geo : 59 . 5 , 29 . 5 ? z = 18 & <UNK> = 59 . 5 , 29 . 5
+removing unused import
+updated . gitignore
+fix <UNK> test
+added a getlanguageweight getlanguageweight () () method to simplebreadthfirstsearchmanager simplebreadthfirstsearchmanager getlanguageweight weight . ] ]
+added h2 sdk as intellij - projects
+added logging for warn <UNK>
+removed <UNK> to catch <UNK>
+updating commons - codec dep to 1 . 11
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( 1617 of 1617 strings )
+updates jicoco to 1 . 0 - 20161103 . 170039 - 36
+add have rethrow rethrow runtimeexception rethrow avoid <UNK>
+fixed typo in countryresttest countryresttest test
+<UNK> the snapshot
+update the project version to 0 . 67 . 2 - snapshot
+<UNK> <UNK> in <UNK>
+add jacoco code to jacoco tests
+corrected started folder
+fixed <UNK> bug in layoutmanager key (# <UNK> ) change - id : <UNK>
+<UNK> up <UNK> of 1 . 6 . <UNK> to <UNK>
+travis : remove <UNK>
+check if the null is null before trying to get the null for <UNK> before <UNK>
+add temporary default value
+allow the uaa uaa yml when <UNK> the uaa yml
+add two new convenience column in parent
+runexamples . bat : prevent the terminal window to disappear before before the user message
+https :// github . com / fengjiachun / jupiter / issues / 33
+added docs
+added snapshots <UNK> to common <UNK>
+gradle 2 . 5
+updates ice4j to <UNK>
+fixed button password when <UNK> password // freebie
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated syncthing to v0 . 14 . 32
+updates libjitsi to <UNK>
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 2564 of 2564 strings )
+changed travis build
+check for result_ok result_ok result_ok result_ok result_ok safe on <UNK>
+fixed issue with the imageuri imageuri imageuri imageuri android behavior
+updated the nadron nadron nadron nadron nadron dependency in readme
+fix layout issue
+[ maven - release - plugin ] prepare release unirest - java - 1 . 3 . 20
+updates ice4j to <UNK>
+translated using weblate ( turkish ) currently translated at <UNK> . 9 % ( <UNK> of <UNK> strings )
+update selenium selenium webdrivermanager stable
+added matchers matchers . xml . build to the build
+updated build in dist
+sleep the <UNK> <UNK> to use the sleep for <UNK> ()
+updates libjitsi to commit <UNK> : <UNK> - <UNK>
+add config session to the web
+updates ice4j to <UNK>
+bump lucene to 4 . 9 . 0
+removed redminecontainer redminecontainer redminecontainer redminecontainer wait from test
+added dist file file to gitignore
+changed to name of addactivity application
+added sent_timestamp sent_timestamp variable to changelog
+add <UNK> ( equals ) to fix <UNK> where <UNK>
+added release - linkedin profile to list of website
+added navigation <UNK> for <UNK>
+set prelease izpack izpack izpack izpack
+changes to paddingtop paddingtop dimen background
+bumped version to 2 . 2alpha80 @ branch - specific
+allow <UNK> <UNK> to allow more <UNK> to avoid <UNK> <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( polish ) currently translated at 100 . 0 % ( 2209 of 2209 strings )
+[ gradle release plugin ] - pre tag commit : ' 0 . 3 . 0 '
+asl screenshots
+added gitlab - ci file
+system <UNK> . currenttimemillis system to system if there ' s nothing for session
+updated pom to point hibernate hibernate hibernate jpa jpa https :// github . com / api / dependency / commit / <UNK>
+translated using weblate ( dutch ) currently translated at 44 . 1 % ( <UNK> of 3102 strings )
+bump project version
+translated using weblate ( swedish ) currently translated at 99 . 3 % ( <UNK> of <UNK> strings )
+fixed <UNK> test for <UNK>
+changed <UNK> to trace level instead of info to trace
+removed redundant line of oauth2 oauth2 form
+fix <UNK> not being being <UNK>
+corrected wrong <UNK> <UNK>
+upgrade to latest junit - platform - plugin 1 . 1 . 1
+removed 100 <UNK> svn changeset : <UNK> / svn branch : trunk
+[ pom ] update tomcat7 to 8 . 5 . 33
+add null check to gcm test
+fixed test
+added ignore files to gitignore
+added documentation about documentation
+fixed a crash in geocodingapitest test
+updated osx
+prepare for 2 . 8 . 9
+fixed memoryleakstest test after changing test . class "
+updating to bom version 1 . 14 . 113 at 2017 - 10 - <UNK> : 44 : <UNK> . <UNK>
+null null validation before null <UNK>
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+edited release notes
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed missing . jar files
+check memoffset memoffset memoffset memoffset memoffset memoffset memoffset memoffset using using using <UNK> <UNK>
+fixed npe in folderpickeractivity file
+translated using weblate ( french ) currently translated at 67 . 3 % ( <UNK> of 582 strings )
+removed <UNK> activation
+bumped version to 2 . 5alpha30 @ branch - specific
+test
+<UNK> all the list of the decoders isolateddigits connecteddigits connecteddigits
+fixed typo in <UNK> svn changeset : <UNK> / svn branch : 6 . 7
+added serialversionuid serialversionuid serialversionuid serialversionuid private
+added a null check for https :// github . com / ps3mediaserver / ps3mediaserver / commit / <UNK>
+keywordvalidatorfactory . buildvalidator static static
+updated build in dist
+updated readme
+updated selenium selenium selenium version to 2 . 29 . 0
+added a aggregation service service
+updated version number
+release 0 . 11 . 0
+translated using weblate ( arabic ) currently translated at 86 . 8 % ( <UNK> of 2005 strings )
+fixed typo in <UNK> svn changeset : <UNK> / svn branch : 6 . 7
+bumped version to 2 . 3beta24 @ branch - specific
+fix <UNK> task
+added tiled tiled tiled tiled subproject commit
+updated readme for <UNK>
+changed trace of 8080 test
+<UNK> the feature of the ymsg_network_v0_61 level <UNK> to the list of the jar
+make junit junit to make <UNK> <UNK>
+[ pom ] update derby derby 10 10 . 11 . 1 . 1
+corrected <UNK> 49dc
+fix # <UNK> , opening <UNK> from <UNK> in <UNK> ()
+bump the version of the javadoc
+adjust trusty trusty trusty trusty trusty trusty <UNK> <UNK> on travis <UNK> )
+added andreas ronge roles ronge to contributors list
+correct title of title
+enabled on activiti - root boot
+handle <UNK> when <UNK> a deploy
+web - jsp spring readme
+<UNK> the ' reinstallmode amus amus amus amus amus setup to the windows unit <UNK>
+upgrade swagger - jersey2 to 1 . 5 . 10
+fixed a bug in display <UNK>
+prevent <UNK> <UNK> in <UNK> table
+try to fix <UNK> in <UNK>
+change the extensions code
+translated using weblate ( argentinean spanish ) currently translated at 100 . 0 % ( 1683 of 1683 strings )
+tweak registry git - svn - id : http :// protostuff . googlecode . com / svn / trunk @ <UNK> 3b38d51a - 9144 - 11de - 8ad7 - 8b2c2f1e2016
+fixed the <UNK> build
+fix <UNK> . <UNK> ( cfg )
+updated readme . md
+adding dummy file to ignore
+renamed to get <UNK> class in test
+[ feature ] add dexoptions dexoptions false to build
+style_link style_link style_link style_link
+add a logger log
+adding <UNK> - flatly . css to . gitignore
+lang_ide_site website to readme
+add screenshot for <UNK> demo
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated syncthing to v0 . 14 . 32
+[ maven - release - plugin ] prepare release v2 . 1 . 12
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 1620 of 1620 strings )
+release version
+fix padding declaration
+added support about integration . de ( wescale integration )
+fixes flakytest assembly target to stop rest tests
+logger <UNK>
+[# 52 ] <UNK> seq gap gap gap poll gap seq
+travis
+updates libjitsi . jar with <UNK> <UNK> 1 . 1 and <UNK> binaries
+fixed date
+change <UNK> <UNK>
+update the docs and support " @ @ suppresswarnings " " @ unckecked " " @ unckecked " " @ unckecked " is not removed
+removing 2 . 8 source build
+added remove remove override
+translated using weblate ( chinese ( simplified )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix <UNK> <UNK>
+translated using weblate ( esperanto ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+adding a gitignore to help gitignore
+prepare for 2 . 7 . 5
+add cardmatch cardmatch ########################################################################## cardmatch cardmatch <UNK> cardmatch the - wait ]
+apk
+added a import on github
+updated banner banner banner banner banner banner
+<UNK> gradle gradle
+change the gradle script
+<UNK> <UNK> for <UNK>
+bump to info 1 . 0 . 0 - beta3
+updating example to point to 0 . 1 . 3
+<UNK> docs
+added <UNK> icon
+fixed git by <UNK>
+upgraded to build 72
+bump version
+removed old . setheight . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable . featuretable svn changeset : <UNK> / svn branch : toolkit
+removed redundant byte [] byte [] byte
+<UNK> the <UNK> <UNK> in <UNK>
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of <UNK> strings )
+added note about much much too
+copyright : fix maven build copyright on build . xml
+fixed wrong keep forever forever keep socket forever setsotimeout setsotimeout # <UNK>
+translated using weblate ( <UNK> ) currently translated at 6 . 9 % ( <UNK> of <UNK> strings )
+updated version number
+translated using weblate ( esperanto ) currently translated at 100 . 0 % ( 2103 of 2103 strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 1620 of 1620 strings )
+release 0100 0100
+mvn : updates jitsi - desktop . version
+upgrade <UNK> to <UNK> 2 . 4 . 0
+fixed test
+version 59
+translated using weblate ( japanese ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( sardinian ) currently translated at 99 . 8 % ( <UNK> of 3486 strings )
+fix # <UNK> adding abstractbasepane abstractbasepane gettextgui override when <UNK> <UNK> in the abstractbasepane abstractbasepane abstractbasepane don ' t support the <UNK> parameter to run
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of <UNK> strings )
+travis update
+[ webcam - <UNK> ] <UNK> bridj bridj version in dependency
+[ maven - release - plugin ] prepare release v0 . 4 . 4
+translated using weblate ( hebrew ) currently translated at <UNK> . 5 % ( <UNK> of 3494 strings )
+translated using weblate ( hungarian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+[ drools - <UNK> ] import kie to drools - compiler - compiler osgi manifest
+add <UNK> to readme
+cvsignore . cvsignore . <UNK>
+excluded guava dependency
+fix <UNK> on history window
+translated using weblate ( slovak ) currently translated at 99 . 7 % ( <UNK> of 2317 strings )
+don ' t close the <UNK> in the <UNK>
+common : fix <UNK> bug in jsonserializer 16 1 . 6 - jsonserializer fix that <UNK> us <UNK> for android 1 . 6
+remove readme
+bumped version to 1 . 1alpha17
+added waffle waffle badge to readme
+fixed <UNK> <UNK>
+release selenide 4 . 2 . 1
+intellij - intellij @ <UNK> executable
+added gradleedit1 gradle_sts_create images
+translated using weblate ( german ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+<UNK> <UNK> <UNK>
+<UNK> the styles
+translated using weblate ( persian ) currently translated at 100 . 0 % ( 2593 of 2593 strings )
+added intellij project files to ignore list
+[ maven - release - plugin ] prepare release lanterna - 2 . 0 . 3
+git - svn - id : https :// addons . mawhrin . net / repos / fbreaderj / trunk @ <UNK> 3b38d51a -
+readme
+added travis support
+add dep for server - server
+fix <UNK> in test
+upgrade java to build
+updated menu_tr . properties ( <UNK> )
+[ artifactory - release ] next development version 1 . 0 . 0 - rc2 - snapshot
+added docs
+added <UNK> method to mylocationnewoverlay mylocationnewoverlay y <UNK> <UNK> <UNK>
+cache cache
+start window . start () added to start if it is available
+update gitignore
+fix ic_launcher debug detail
+updating changelog for 1 . 0 . 2 release
+fix npe in logfilesadapter logfilesadapter logfilesadapter logfilesadapter null <UNK> ()
+issue <UNK>
+[ java ] upgrade to mockito 2 . 5 . 4
+fixed <UNK> test failure
+translated using weblate ( russian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> javassist javassist jar was
+make runtimeexception runtimeexception runtimeexception runtimeexception runtimeexception runtimeexception
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+stop the loklak scalingo value in the scalingo scalingo https <UNK>
+removed <UNK> config from travis script
+added tomas email to the tom pios <UNK>
+reset default nodes <UNK> <UNK> svn changeset : <UNK> / svn branch : 6 . 7
+use 4 . 1 . 0 19
+upgrade linq4j linq4j to version 0 . 1
+<UNK> <UNK> exhibitor exhibitor
+translated using weblate ( portuguese ( brazil )) currently translated at 100 . 0 % ( 1748 of 1748 strings )
+git - svn - id : https :// jeeeyul . mawhrin . net / repos / fbreaderj / trunk @ <UNK> 6a642e6f - 84f6 - 412e - ac94 - c4a38d5a04b0
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+minor , add kylin log4j to classpath
+<UNK> <UNK> for <UNK>
+[ maven - release - plugin ] prepare release mbassador - 1 . 2 . 2
+added todo for todo code
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added android <UNK> . md
+[ gradle release plugin ] - pre tag commit : ' 2 . 0 - beta4 '
+fix groovy name
+[ maven - release - plugin ] prepare release javafaker - 0 . 11
+add cyclops cyclops project cyclops cyclops try https :// codereview . appspot . com / <UNK> /
+fix a z <UNK> on a 50 <UNK> to be initialized ( again , <UNK> )
+findbugs pas getpatientpreferredmaximumroomcapacity integer
+updated xxhdpi <UNK> icon
+execute the cleanup cleanup to be <UNK>
+removed unused import
+updated changelog
+updated linux binaries to add native . <UNK> . libsqlitejdbc . libsqlitejdbc . native
+translated using weblate ( argentinean spanish ) currently translated at 100 . 0 % ( 1848 of 1848 strings )
+changes to commit field right =" right in <UNK> constructor
+<UNK> test
+translated using weblate ( german ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated android plugin plugin to v2 . 8 . 1
+uses test to travis ci
+fixed typo in completion helper
+v3 . 0 . 14
+updated available version to intellij 12
+translated using weblate ( slovak ) currently translated at 100 . 0 % ( 1569 of 1569 strings )
+readme
+add <UNK> <UNK> - icon for oophm <UNK>
+<UNK> : use used with used with used with used data
+added <UNK> traces traces traces traces traces traces # <UNK> / <UNK> / <UNK> # <UNK> #
+add travis . sh
+updated readme
+added android arsenal badge
+fixed cassandracredentials cassandracredentials dao dao dao setcredentialsbody setcredentialsbody setcredentialsbody setcredentialsbody () method was <UNK> method to be <UNK> from consistency
+fixed layout layout for <UNK> theme
+updated changelog
+add scale size to minimapoverlay density size
+added missing logerror logerror to jdbcrequestteststepdesktoppanel jdbcrequestteststepdesktoppanel connection <UNK>
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 6 . 13 . 4
+added <UNK> to <UNK> <UNK> <UNK>
+added notice folder to distribution signed - off - by : kai kreuzer < kai @ openhab . org >
+[ pom ] add <UNK> dependency for sub build tests
+removed unnecessary font font
+[ maven - release - plugin ] prepare release v0 . 1 . 9
+added link to switch to allow <UNK> of apps
+add big test case
+[ artifactory - release ] next development version 3 . 1 . 1 . build - snapshot
+translated using weblate ( argentinean spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( belarusian ( latin )) currently translated at 100 % ( 0 of 0 strings ) created new translation
+include the ' started ' to ' started ' in the list
+updated changelog
+signed - off - by : jeeeyul < jeeeyul @ gmail . com >
+fixed a problem that resteasy <UNK> <UNK> <UNK> the test file to work with <UNK>
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 1569 of 1569 strings )
+<UNK> @ client : v branch for better level
+translated using weblate ( japanese ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix issue with jar <UNK> on jar
+updated maven version to 6 . 1 - snapshot svn changeset : <UNK> / svn branch : 6 . 1
+remove another statement from the website
+fixme <UNK> for table svn changeset : <UNK> / svn branch : trunk
+<UNK> test : only reliable reliable java1 . 8 from the test . 8
+fixed typo in the comment
+bumped version to 2 . 4 . 1beta1 @ branch - specific
+check to fix <UNK>
+set <UNK> to healthy healthy healthy healthy healthy <UNK>
+qq qq qq qq qq qq . md
+translated using weblate ( persian ) currently translated at 100 . 0 % ( 2593 of 2593 strings )
+update travis - tools . yml
+fix sync <UNK>
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( 3323 of 3323 strings )
+[ pom ] update checkstyle to 7 . 1 . 2
+try use the <UNK> node of the test comment to avoid <UNK> travis
+translated using weblate ( danish ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+add thomas thomas email to the pom list
+[# 65 ] typefromsignatureresolvingutil typefromsignatureresolvingutil <UNK> <UNK> to prevent race issue with <UNK>
+groupselector groupselector groupsroot groupsroot groupsroot groupsroot groupsroot groupsroot on x package
+upgrade to mybatis 3 . 4 . 0
+maxwell maxwell docker maxwell
+[ drools - <UNK> ] remove @ ignore from test
+release ' 0 . 18 . 0 '
+updated wrapper jar
+gh - <UNK> - minor change
+clear the clear bundle bundle
+translated using weblate ( german ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare release mango - 1 . 5 . 0
+updates bcprov - jdk15on . jar to <UNK> and <UNK>
+incremented development version number to 6 . 5 . 3 . svn changeset : <UNK> / svn branch : 6 . 5
+<UNK> to fix <UNK> issue
+added a <UNK> to the n - gram based <UNK>
+link to fix libjitsi - javadoc
+start to 1 . 3 . 0
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( german ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+translated using weblate ( russian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add textstyle bold layout to <UNK>
+updated changelog
+adding tab_switcher_background_color tab_switcher_background_color tab_switcher_background_color tab_switcher_background_color tab_switcher_background_color <UNK> <UNK>
+fixed npe in connection ()
+updates ice4j to <UNK>
+translated using weblate ( esperanto ) currently translated at 100 . 0 % ( 2594 of 2594 strings )
+added parent . mobivery . smart parent parent
+[ maven - release - plugin ] prepare for next development iteration
+<UNK> . xml : use jpa jpa . cache property
+[ fix ] removing unnecessary <UNK>
+[ jboss - fuse - 6 . 1 . x 366 ] updating perfectus - build number to new build
+bumped version to 2 . 5alpha39 @ branch - specific
+release 1 . 5 . 1
+null the null key if <UNK> is <UNK>
+translated using weblate ( italian ) currently translated at 100 . 0 % ( 1569 of 1569 strings )
+platform 182 . 2757 : update version idea 2018 . 2 . 5 <UNK>
+<UNK> native libraries
+updates libjitsi . jar ( built on
+changed to the version of sandbox - swing
+fixed <UNK> search search when <UNK> context // freebie
+[ jboss - fuse - 6 . 1 . x 072 ] updating perfectus - build number to new build
+bumped version to 0 . 9 . 14
+added screenshot
+fixed typo in contributors website
+fixed getapipath cms cms createskill cms cms cms cms cms cms cms . json . json )
+removed <UNK> tablerowtraversor tablerowtraversor tablerowtraversor tablerowtraversor
+fix customedgeeffecttest customedgeeffecttest customedgeeffecttest customedgeeffecttest deltadistance onpull <UNK> on true for <UNK> - <UNK>
+fixed <UNK> () method
+translated using weblate ( korean ) currently translated at 100 . 0 % ( 1597 of 1597 strings )
+fixed issue with race <UNK> ' t <UNK> () on the mediaplayer container
+use the new font window for the account <UNK>
+default <UNK> in <UNK> page
+translated using weblate ( belarusian ( latin )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+upgrade to mockito - core 2 . 17 . 0 fixes gh - <UNK>
+fix core type ( <UNK> is <UNK> <UNK>
+fixed <UNK> <UNK> of <UNK> () (# <UNK> )
+translated using weblate ( russian ) currently translated at 98 . 7 % ( <UNK> of <UNK> strings )
+fixed <UNK> cancel to get show alpha if the session has not <UNK>
+fixed typo in transportstoprouteadapter null file
+clear the task is <UNK> the task password
+remove <UNK> . willwinder . uielements package
+translated using weblate ( russian ) currently translated at 96 . 3 % ( <UNK> of <UNK> strings )
+added a tostring () method to show <UNK> ()
+fixed message in regularchat message
+<UNK> <UNK> in ispinnedtotaskbar appdata () if it is <UNK>
+fixed a bug in the apache tag file
+add javadoc for final <UNK>
+translated using weblate ( esperanto ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updates ice4j to <UNK>
+common : make a variable of a final since it was nothing
+incremented vaadin version number to 6 . 2 . 6 . svn changeset : <UNK> / svn branch : 6 . 2
+removed old description
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare for next development iteration
+removed a comment that <UNK> does not have it
+committed translation ( bs )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+update last synchronization time
+remove maven - checkstyle - plugin from pom . xml
+fixed missing import in i2c import
+corrected example svn changeset : <UNK> / svn branch : trunk
+firestore throwable throwable throwable transaction to get get <UNK> exception (# <UNK> )
+screen
+add readme . md to contributors phase
+translated using weblate ( french ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+set the exclude excludes excludes to bin
+[ drools - <UNK> ] avoid <UNK> <UNK> setfocus <UNK> when <UNK> <UNK> is updated
+edited wiki page indexquantization through web user interface
+add (^|/) errs (^|/) errs to . hgignore
+prepare for 1 . 0 . 1
+upgrade <UNK> to version 0 . 9 . 30
+made buffer <UNK>
+[ readme ] fix incorrect usage of documentation in readme
+build changelog : label }- }- }- 1 many
+bumped version to 0 . 7 . 5 - beta1
+removed <UNK> . eclipse , adding <UNK> . service . org . org . org . org . org . org . org . org . org
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( 2058 of 2058 strings )
+translated using weblate ( lithuanian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+add numerictype numerictype numerictype numerictype numerictype liquibase <UNK> )
+removed unneeded rm1_unigram rm1_unigram rm1_trigram rm1_wordpair <UNK> calls : <UNK> test warnings
+added intellij files to gitignore
+fixed setarmoritem inventory index " index " item "
+[ java ] depend on agrona snapshot
+translated using weblate ( polish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+get rid of time graphviz time <UNK>
+added todo comment
+bumped version to 3 . 0 . 0 - a3
+upgrade to spring security 4 . 1 . 2 . release
+[ calcite - 2008 ] access <UNK> dispose in iterator
+updated syncthing to v0 . 14 . 32
+try get timeout in travis
+upgrade to spring cloud contract 1 . 0 . 0 . m1 closes gh - <UNK>
+updates libjitsi to <UNK>
+fix typo in pt abbreviations abbreviations abbreviations <UNK> <UNK>
+updated support to <UNK> . 3 . 0
+removed test commit
+added <UNK> to build . gradle
+trying to fix <UNK> for line in test
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( 2585 of 2585 strings )
+bumped version to 2 . 2beta4 @ branch - specific
+fixed build . build . xml for root
+added comment about the file index index
+[ maven - release - plugin ] prepare release v2 . 1 . 8
+removed build . gradle from the gitignore
+changed <UNK> number to codeborne codeborne . 0 . version
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updating mvnw maven_cmd_line_args echo
+use the 2 . 3 . 1 release wasn would be used
+fix npe in keysearch block when <UNK> <UNK> if no stepprecomputed )"). stepprecomputed )"). )"). )"). )"). cxt cxt lines
+invalid reference , , reference ignoring , ignoring reference ignoring ignoring ignoring ignoring ignoring ignoring ignoring
+trying to fix testsubmitjobmethodfailure test tests in test
+update gradle
+cleartransactionrequest info info for <UNK> <UNK>
+fix <UNK> <UNK> strategy
+return call to endswith . endswith () if it is not used by default
+bumped version to 2 . 5alpha7 @ branch - specific
+[ maven - release - plugin ] prepare release v0 . 4 . 5
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added hendrik maryns contributor contributor hendrik hendrik <UNK> <UNK>
+translated using weblate ( russian ) currently translated at 96 . 0 % ( <UNK> of <UNK> strings )
+mvn : updates libjitsi
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( russian ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+builtinvalidatorbundle : make the dependencies dependencies dependencies
+bumped version to 2 . 3 . 1beta10 @ branch - specific
+<UNK> back <UNK>
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+update appcompat appcompat build . 1
+fixed a bug in objectvalue get ()
+changelog
+remove plugin . xml from the gateway gateway plugin
+fixed <UNK> <UNK>
+translated using weblate ( french ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bumped version to b1 4 . 0 . 0 - b1
+bumped version to 2 . 9alpha9 @ branch - specific
+check if the null null is already before already <UNK>
+updated changelog
+[ maven - release - plugin ] prepare release unirest - java - 1 . 3 . 13
+added xx00 xx00 xx00 - xx00 - user for <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed stacktrace test
+add 2 . 9 release date
+<UNK> about <UNK> for scroll , mousewheel , the scroll event
+removed bogus system . err . println
+removed highly highly highly <UNK> at <UNK> at it , it works on <UNK>
+add support to create the create object
+[ maven - release - plugin ] prepare release mango - 1 . 3 . 5
+adding mock - maker test to mockito
+fixing test to check if there are unknown / the location directory
+changed <UNK> <UNK> to login <UNK> exceptions
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+<UNK> suppresswarnings suppresswarnings unused mode
+add remove remove remove remove method
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+isnullfunctionusageinspector isnullfunctionusageinspector <UNK>
+fix <UNK>
+[ 0 . 1 . 0 ] upped version
+<UNK> rserve base r
+remove lang <UNK> on <UNK>
+translated using weblate ( sardinian ) currently translated at 99 . 9 % ( <UNK> of 1747 strings )
+made documentation for nullchecktag ]":"[ unknown " signed - off - by : francis galiegue < fgaliegue @ gmail . com >
+translated using weblate ( german ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+make new version 5 . 25
+fix typo in javadoc comment svn changeset : <UNK> / svn branch : 6 . 5
+fix <UNK> <UNK> typo
+<UNK> null <UNK> for <UNK>
+added scripts to ignore the update update on the update book
+[ maven - release - plugin ] prepare release mango - 1 . 0
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( 2295 of 2295 strings )
+bumped version to 2 . 5beta15 @ branch - specific
+added org . osgi to the custom integration
+upgrade to jar 1 . 1 . 1
+fixed issue with ios <UNK> <UNK> on ios fixes # <UNK>
+updated changelog
+translated using weblate ( dutch ) currently translated at 44 . 8 % ( <UNK> of 3102 strings )
+update core module
+remove mesosphere override plugin , because it <UNK> the parent repo
+updated readme
+issue <UNK> hadoop jars are missing in janusgraph janusgraph - gremlin headers
+assertsameshape assertsameshape linalgexceptions linalgexceptions linalgexceptions linalgexceptions linalgexceptions linalgexceptions
+use my version of 1 . 0
+adding <UNK> about plain text , fixes # <UNK>
+out out requests classname ajaxsetup requests
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( japanese ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ gradle release plugin ] - new version commit : ' 2 . 0 - snapshot '
+readme
+v3 . 0 . 2
+add changelog for 1 . 0 . 1
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> <UNK> url for <UNK>
+make enum <UNK>
+adding the fixme to the fixme list that can ' t be <UNK> <UNK> at the <UNK> profile of <UNK>
+bumped version to 0 . 7 . 0 - beta2
+try to fix approachpoints approachpoints enumset osmand
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ kie - <UNK> ] add meta . conf . resource to kie - ci - plugins
+include the include include include in assembly
+remove the word way from maven eclipse definition
+release 1 . 16 . 16
+[ calcite - <UNK> ] remove string from lattice lattice column # <UNK>
+removed <UNK> component svn changeset : <UNK> / svn branch : trunk
+fixed typo svn changeset : <UNK> / svn branch : 6 . 5
+attempt to fix <UNK> failing pushy
+<UNK> '' '' '' '' '' <UNK>
+edited wiki page releasenotes through web user interface
+set profile to profilecompleter profilecompleter parent on the default <UNK>
+fix wrong size size to show <UNK> <UNK>
+translated using weblate ( hebrew ) currently translated at <UNK> . 5 % ( <UNK> of 3494 strings )
+minor , fix <UNK> loaded . size
+unused import
+removed redundant line to executor in apklibmojo executor
+removed unused import
+changelog former - commit - id : <UNK>
+fixed typo in require statement
+fixed componentgroup <UNK> of componentgroup insertcomponentat insertcomponentat ' t return <UNK> in the componentgroup container
+findbugs to findbugs out of travis
+updating readme
+add error to changelog
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( 1748 of 1748 strings )
+testing ( too ) <UNK>
+release 3 . 0 . 0 - rc3 - rc3 ( <UNK> )
+disabled scope of annotations scope
+reset <UNK> <UNK> before <UNK>
+update lealone . yaml
+[ room ] disable <UNK> ui # <UNK>
+[ <UNK> - <UNK> ] fix typo in jtatransactionmanager findtransactionmanager transactionmanager transactionmanager jta <UNK> )
+translated using weblate ( russian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+bump version
+update hazelcast hazelcast plugins - plugins hazelcast hazelcast hazelcast fix examples
+translated using weblate ( hungarian ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( 146 of 146 strings )
+fixed a crash when <UNK> is <UNK> from opening for <UNK> , but the crash or to opening opening
+translated using weblate ( esperanto ) currently translated at <UNK> . 8 % ( <UNK> of <UNK> strings )
+fix range <UNK> <UNK> <UNK>
+translated using weblate ( french ) currently translated at 100 . 0 % ( 662 of 662 strings )
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( 2357 of 2357 strings )
+translated using weblate ( portuguese ( brazil )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed readme file signed - off - by : kai kreuzer < kai @ openhab . org >
+translated using weblate ( portuguese ( brazil )) currently translated at 100 % ( 0 of 0 strings ) created new translation
+fix <UNK> <UNK> gitlabcommitstatuspublisher gitlabcommitstatuspublisher gitlabcommitstatuspublisher buildstepmonitor build , <UNK> <UNK> <UNK>
+<UNK> thread <UNK> , making it <UNK> to large test
+[ maven - release - plugin ] prepare for next development iteration
+bumped version to 2 . 5alpha5 @ branch - specific
+fixing a bug in treeviewmodel treeviewmodel treeviewmodel cell child ] change - id : <UNK>
+added run content for <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 3432 of 3432 strings )
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added maxvisible maxvisible 10 " to <UNK>
+added ant . properties to . gitignore adding ant . properties to . gitignore that
+readme
+set clone server server to server - <UNK>
+unused import
+fixed typo in tablefieldfactory tablefieldfactory property svn changeset : <UNK> / svn branch : 6 . 5
+updating changelog for 1 . 0 . 2 release
+translated using weblate ( french ) currently translated at 100 . 0 % ( 872 of 872 strings )
+translated using weblate ( <UNK> ) currently translated at 0 . 0 % ( 1 of <UNK> strings )
+printstacktrace printstacktrace color
+bump to <UNK> 4 . 1 . 0
+added clirr plugin plugin
+add readme
+bumped version to 2 . 3beta43 @ branch - specific
+updated build . xml version number to 0 . 4 . 6
+avoid <UNK> from wrapper
+translated using weblate ( traditional chinese ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added <UNK> method to <UNK>
+changed the 65 65 to 65
+fixed npe in queue
+travis : fix test
+update gradle - plugin to 2 . 2 . 0
+changelog for text
+changed alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt alt <UNK>
+upgrade to lucene 3 . 0 . 1
+gh - <UNK> expanded error in test
+bumped version to 0 . 7 . 9
+translated using weblate ( italian ) currently translated at 98 . 6 % ( <UNK> of <UNK> strings )
+create thanks
+updates dnsjava . jar to <UNK> <UNK>
+<UNK> tag
+[ maven - release - plugin ] prepare for next development iteration
+git - svn - id : https :// only . mawhrin . net / repos / fbreaderj / trunk @ <UNK> 6a642e6f - 84f6 - 412e - ac94 - c4a38d5a04b0
+translated using weblate ( hebrew ) currently translated at <UNK> . 5 % ( <UNK> of 3494 strings )
+fix cs cs cs <UNK> on <UNK>
+updated docs
+add setonerrorlistener listener <UNK> <UNK>
+updating to bom version 1 . 14 . 114 at 2017 - 10 - <UNK> : 44 : <UNK> . <UNK>
+added maven - assembly - plugin to root classpath
+adds hold readme
+[ maven - release - plugin ] prepare release mockserver - vertx - 2 . 5
+<UNK> <UNK> size for <UNK> and webdavlib source <UNK>
+added vibrate vibrate permission to make <UNK> <UNK>
+translated using weblate ( german ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+travis : make the test travis
+fix crash on <UNK> if <UNK> has been shown
+updates libjitsi to <UNK>
+prepare 0 . 6
+added idea idea idea files to gitignore
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+add my <UNK>
+upgrade to http - request 4 . 2
+<UNK> sleep for <UNK> <UNK> folder ( <UNK> )
+fixed incorrect size at <UNK> theme
+fixed <UNK> serial serial serial serial <UNK>
+[ maven - release - plugin ] prepare release v2 . 1 . 4
+added string 2 to 2 . 7 for log <UNK>
+fixed wrong <UNK> on <UNK>
+fixing convertrequestedschematoschema getdefaultcatalogname getdefaultcatalogname getdefaultcatalogname null
+button <UNK> 1 . 0 fix fix <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+translated using weblate ( turkish ) currently translated at 100 . 0 % ( 1848 of 1848 strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+edited wiki page frontpage2 through web user interface
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bumped version to 2 . 9alpha32 @ branch - specific
+bumped version to 1 . 1beta4
+updated syncthing to v0 . 14 . 32
+fix <UNK> <UNK> bug
+ignore gradle project files
+cname cname cname selenide
+adds missing connecting connecting gif
+[ gradle release plugin ] - new version commit : ' 0 . 2 . 10 - snapshot '
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare for next development iteration
+updated package to 0 . 10 . 6
+update the project version to 0 . 58 . 2 - snapshot
+exoplayer exoplayer exoplayer build version
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( 3323 of 3323 strings )
+added build . properties
+replace debug . eclipse . jre_container
+[# 65 ] unknowninspectioninspector unknowninspectioninspector collectinspections <UNK> <UNK>
+example fix
+changed <UNK> . ppt to <UNK> it
+added last to get <UNK> appversion appversion appversion blackberryos_4_2 blackberryos_4_2 blackberryos_4_2 blackberryos_4_2 ]
+set <UNK> to min from retriesbeforedisable 1 . x
+translated using weblate ( russian ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed typo in ideviceconnection ideviceconnection <UNK> ] <UNK> ()
+add link to include andrey andrey contributors
+translated using weblate ( russian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ gradle release plugin ] - pre tag commit : ' 1 . 56 . 42 '
+edited wiki page about through web user interface
+fixed for impl for zoozappkey zoozappkey zoozappkey zoozappkey ]
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( 1621 of 1621 strings )
+translated using weblate ( hungarian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed <UNK> import
+added reason_change_requested_by_user reason_change_requested_by_user reason_change_requested_by_user reason_change_requested_by_user reason_change_requested_by_user reason_change_requested_by_user the same info
+remove duplicate 9200 9200 . elasticsearch = http :// properties . resources . <UNK> / user / <UNK> - <UNK>
+translated using weblate ( italian ) currently translated at 61 . 5 % ( <UNK> of 2755 strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 2059 of 2059 strings )
+do not run - e - target in the default script
+updated ignorablefile description for better <UNK>
+working on selenide 3 . 1
+incrementing version . txt in trunk to reflect # <UNK>
+[ bz - <UNK> ] make <UNK> to <UNK> skip <UNK> with a <UNK>
+open 1 . 2 . 0
+removed unnecessary <UNK>
+seldon - cli <UNK> issues
+using latest netty
+add android / android plugin to sbt tests
+added method for label <UNK>
+<UNK> the test . currenttimemillis . currenttimemillis + system . currenttimemillis . currenttimemillis mahouth2ocontext mahouth2ocontext system
+added missing profile cxf based cxf jaxrs services path
+https :// github . com / jitsi / jitsi / commit / <UNK>
+bumped version to 2 . 5beta18 @ branch - specific
+added <UNK> field to panasonic vierae6 panasonic tvs
+default eagain eagain eagain eagain eagain eagain eagain # <UNK>
+translated using weblate ( norwegian bokml ) currently translated at <UNK> . 5 % ( <UNK> of <UNK> strings )
+allow the config openfire openfire openfire openfire openfire openfire thread ] t <UNK> to loader
+remove unnecessary line in gobblin - compaction / build . gradle
+added missing requestrepaint requestrepaint svn changeset : <UNK> / svn branch : trunk
+translated using weblate ( basque ) currently translated at 60 . 3 % ( <UNK> of 2755 strings )
+travis : 2017 . 3 environment
+changed export export to check for <UNK> to "[{-- "[{-- "[{-- export
+reset liveframe setnextbuttonenabled setnextbuttonenabled setnextbuttonenabled to avoid warnings if <UNK> is <UNK>
+fixed npe in liquibaseconfiguration - <UNK> method for <UNK>
+plugin <UNK> updated - <UNK> for now off , so re m from issues # <UNK>
+[ resteasy - <UNK> ] fix <UNK>
+generator : added generator properties
+edited wiki page releasenotes through web user interface
+translated using weblate ( arabic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven ] update maven - shade - plugin to 2 . 4 . 3
+release selenide 3 . 10
+minor , new <UNK> number for <UNK>
+upgrade to hsqldb 2 . 3 . 3
+bumped version to 2 . 5alpha67 @ branch - specific
+updated readme . md
+add missing junit4 @ gwtincompatible @ <UNK>
+<UNK> server servercallimpl [/] [/] servercallimpl <UNK>
+added isfuture isfuture ( isfuture isfuture isfuture utils )
+updated changelog
+updated todo
+changed to 1 . 16 . 0 - snapshot
+console from auto <UNK> box into console
+statement unnecessarily nested within else clause
+unused //# //# //#
+bump to 1 . 1 . 2 version
+bumped version to 2 . 4 . 1beta7 @ branch - specific
+don ' t run taskconn close behavior
+ignore empty empty empty lines
+mvn : updates libjitsi
+[ fabric - <UNK> ] fix <UNK>
+reply reply reply reply working on quick tests [ issue ci ]
+fix bug <UNK> ( <UNK> )
+add link to snowdream utility utility utility <UNK> in main <UNK>
+document project for spring data data
+exclude <UNK> , <UNK> <UNK> to avoid # <UNK>
+update jackson version to android jar
+added dependency - reduced - pom . xml to . gitignore
+[ plugin - xml ] add description
+translated using weblate ( russian ) currently translated at 99 . 7 % ( <UNK> of 1641 strings )
+<UNK> the <UNK> timeout to the <UNK> <UNK>
+add some missing native files for macosx
+validationcontext . java : remove an unused unused method
+<UNK> the absolutebeamwidth absolutebeamwidth 3 3 order
+fix npe in bibentry newvalue replacekeywords replacekeywords fieldchange replacekeywords newvalue newvalue newvalue newvalue newvalue replacekeywords keywordlist <UNK> - id : <UNK>
+1 1 <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+upgrade to <UNK> 1 . 2 . 0 . rc1 closes gh - <UNK>
+removed getgitpropertiesfilename getgitpropertiesfilename getgitpropertiesfilename getgitpropertiesfilename getgitpropertiesfilename listener from working for <UNK>
+translated using weblate ( russian ) currently translated at 98 . 8 % ( <UNK> of <UNK> strings )
+updated build tools
+moving travis config for <UNK>
+gh - <UNK> - fixed test
+fixed for issue # <UNK>
+updating jenkinsfile mvn - maven - maven from the jenkinsfile mvn - maven / 3 . 3 . 9 - bin
+fix for issue # 26
+<UNK> . java for apiserverimplementation . <UNK>
+translated using weblate ( russian ) currently translated at 93 . 7 % ( <UNK> of 641 strings )
+using <UNK> to <UNK>
+upgrade to gson 2 . 2 . 2
+implement implement target <UNK> <UNK>
+added setquerytimeout setquerytimeout ( millis ) to our <UNK> <UNK>
+don ' t <UNK> makefile
+<UNK> the <UNK> of the mappers mappers feature
+changelog
+[ drools - <UNK> ] material material material material material <UNK>
+re - svn - id : https :// only . mawhrin . net / svn / trunk @ <UNK> <UNK> - <UNK> - <UNK> - <UNK> - <UNK>
+removing the spaces . sh files
+<UNK> libalmalib_eval libalmalib_eval . 7 <UNK>
+bumped version to 2 . 3alpha15 @ branch - specific
+release 0 . 3 . 2
+fix <UNK> refresh
+upgrade to vaadin 8 . 0 . 6 closes gh - <UNK>
+added changelog for <UNK> <UNK>
+fix <UNK>
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+remove . ds_store file
+<UNK> <UNK> for <UNK>
+bump version
+fix _ qurandataactivity _ _ _ _ _ _
+fixed tiles example
+update travis
+handle catch <UNK> try
+deprecated setscrollable setscrollable setscrollable setscrollablex <UNK> doesn ' t work
+v1 . 1 . 6
+changed mergeassetstask mergeassetstask dolast mergeassetstask mergeassetstask mergeassetstask to dolast mergeassetstask <UNK>
+fixed javac javac javac javac target plugin on ant
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed a unnecessary import
+removed <UNK> &# import
+[ java ] upgrade to gradle 2 . 2 . 0
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ pom ] update war to _r2 _r2 androidapirevision androidapirevision versions
+allow compiler for surefire <UNK> plugin generation
+translated using weblate ( catalan ) currently translated at <UNK> . 5 % ( <UNK> of 3062 strings )
+add a size to char findnewfreeorremoved char findnewfreeorremoved size
+fixed npe in editfavoritegroupdialogfragment group <UNK>
+reduced <UNK> size to avoid non <UNK> signed - off - by : <UNK> <UNK> < <UNK> @ <UNK> . de
+removed <UNK> from utils
+updated releasenotes
+update readme
+translated using weblate ( chinese ( simplified )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+prepare for 1 . 0 . 2
+tycho 0 . 23 . 0
+incrementing snapshot version to 1 . 1 . 0 - snapshot
+add force attribute to xmpushservice xmpushservice <UNK>
+added a maven wrapper
+add unit test
+translated using weblate ( danish ) currently translated at 100 . 0 % ( 1620 of 1620 strings )
+add promo promo promo promo triple <UNK>
+updated changelog
+added copyright
+fixed <UNK> when <UNK> device <UNK> <UNK> when <UNK>
+fixed picker in picker that caused the picker <UNK> in the picker
+fix <UNK> not showing in skip # <UNK>
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of 1748 strings )
+add a bitdeli badge to readme
+fix <UNK> in chatmessageadapter message if it doesn ' t exist
+fixed typo svn changeset : <UNK> / svn branch : 6 . 5
+translated using weblate ( russian ) currently translated at 94 . 5 % ( <UNK> of <UNK> strings )
+v0 . 1 . 6
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added refreshsuggestionlist refreshsuggestionlist () () of suggestbox suggestbox list
+updated changelog
+add check for null <UNK>
+adding a <UNK> 8080 8080 8080 8080 jenkins <UNK>
+[ maven - release - plugin ] copy for tag lenskit - 0 . 0 . 2
+translated using weblate ( sardinian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1638 of 1638 strings )
+fixed <UNK> () on <UNK>
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+add notes to 2 . 4 . 3
+updates fmj . jar to <UNK> <UNK>
+upgrade to wishlist wishlist wishlist version
+translated using weblate ( french ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed <UNK> char in char
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( 1616 of 1616 strings )
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( 1595 of 1595 strings )
+git - svn - id : https :// only . googlecode . com / svn / trunk @ <UNK> 3b38d51a - 9144 - 11de - 8ad7 - 8b2c2f1e2016
+moving travis dependencies
+[ maven - release - plugin ] prepare for next development iteration
+fixed fareadapter fareadapter fareadapter numbers <UNK> on fareadapter () ()
+v0 . 9 . 7
+make select customers customers select
+removing winnt_x86 winnt_x86 dll
+get <UNK> to get the <UNK> from the non existent method
+added 5 5 type to protocol list
+<UNK> <UNK> + <UNK> - <UNK> to fix deployment - up for process
+release the <UNK> <UNK> of <UNK>
+fixed asciidoctor asciidoctor groovyversion groovyversion groovyversion ]
+[ maven - release - plugin ] prepare for next development iteration
+bumped version to 2 . 5 . 3beta5 @ branch - specific
+remove maven - antrun - plugin from pom . xml
+check for fields field field field
+fix sql warning in sql ()
+fixed <UNK> <UNK> on null
+import
+performancetestlabelsandorderedlayouts button to work if there is no button svn changeset : <UNK> / svn branch : trunk
+add showownership showownership showownership showownership appversion appversion application <UNK>
+bump to tokens 0 . 3 . 2 - snapshot
+issue 45 git - svn - id : http :// protostuff . googlecode . com / svn / trunk @ <UNK> 3b38d51a - 9144 - 11de - 8ad7 - 8b2c2f1e2016
+edited wiki page frontpage2 through web user interface
+fixed incorrect topics data ' dsijoint basic - - - - - - dsijoint dsijoint dsijoint dsijoint dsijoint dsijoint basic basic basic impl ) : up the correct version
+enabled <UNK> protected
+add <UNK> <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare release javafaker - 0 . 5
+bump logfetch version
+remove <UNK> when <UNK> a workspace
+remove targetsdkversion 27 version to 27 . 8 . 0
+updated . gitignore
+[ maven - release - plugin ] prepare release apns - 0 . 2 . 0
+upgrade docker - client dep from 5 . 0 . 8 to 5 . 0 . 1
+translated using weblate ( korean ) currently translated at 100 . 0 % ( 1861 of 1861 strings )
+remove duplicate line of superdevlistener superdevlistener . <UNK> ()
+updates libjitsi . jar ( built on
+add travis build to travis script
+catch <UNK> before catch before available
+upgrade to spring boot 1 . 4 . 3 . release
+fixed product feature by org . dependencies change - id : <UNK>
+update rxjava to 1 . 0 . 16
+[ fabric - 674 ] ignore mqprofiletest mqprofiletest test - <UNK>
+added support for gmt timezone gmt gmt <UNK>
+added a sample sample files to the server tests
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of <UNK> strings )
+change max refresh refresh to " cache "
+updated changelog
+fixed a issue in handlingeventserviceendpoint se se <UNK> ]
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> :[<=>]`) :[<=>]`) :[<=>]`) delegates
+add base <UNK> documentation
+fix travis build
+use bitcoinj 0 . 4
+[ pom ] update versioneye - maven - plugin to 3 . 11 . 2
+git - svn - id : https :// goclipse . googlecode . com / svn / trunk @ <UNK> 1731708e - d1f7 - 11de - a1df - 87ee4daaac7b
+remove <UNK> . out () print
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 1638 of 1638 strings )
+travis : let get <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+trace <UNK> for shutdown <UNK>
+[ maven - release - plugin ] prepare release zt - zip - 1 . 0
+updated logo image
+imageattacher getbitmapcacher getbitmapcacher getbitmapcacher . java ()
+[ drools - <UNK> ] avoid npe when printing up of the <UNK> <UNK>
+added private zipentryutil ()
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add a . settings file to ignore list
+fixed profile in fabric - examples - loadbalancing loadbalancing karaf results that <UNK> doesn ' t work - up
+translated using weblate ( german ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+adding rao rao sagar sagar rao copyright
+[ gradle release plugin ] - pre tag commit : ' 0 . 2 . 8 '
+[ maven - release - plugin ] prepare release apns - 0 . 1
+translated using weblate ( russian ) currently translated at 93 . 5 % ( <UNK> of 641 strings )
+updated changelog
+changelog former - commit - id : <UNK>
+fix : cancelrunnable executor npe when <UNK> <UNK> is <UNK>
+fixed the test case that <UNK> <UNK> the time <UNK>
+added provides runner runner repo
+<UNK> <UNK> of 600 600 expiration
+make elementgeometry transient <UNK> transient
+removed useless algell erik algell algell <UNK> should be <UNK>
+disabled sure path when building <UNK> . g . 5 . <UNK> in maven distribution
+bumped version to 2 . 0alpha1
+remove unused class import
+working on selenide 4 . 3
+android - 25 level
+updated changelog
+userguide api for userguide userguide . com
+updated changelog . txt
+removed test
+check if the executor is <UNK> before <UNK> before <UNK>
+making refresh public
+translated using weblate ( french ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare release apns - 0 . 1 . 6
+<UNK> version
+fix <UNK> <UNK> <UNK> problem
+break
+made <UNK> () to avoid <UNK> from <UNK>
+updating to lang 6 . 4 . 19 - snapshot as <UNK> <UNK>
+added a return property for <UNK> <UNK>
+update readme
+add 2 . sketchimageviewpublic for the gif
+add new apk
+updated the readme for readme
+fix bug with request headers when <UNK> <UNK> is initialized
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of 1568 strings )
+removed <UNK> from update . md
+fixed typo in groovydoc plugin
+remove unnecessary @ test
+removed home from the travis config file
+added xcf before images
+added <UNK> json json value
+[ gradle release plugin ] - pre tag commit : ' 0 . 1 . 1 '
+translated using weblate ( russian ) currently translated at 98 . 7 % ( <UNK> of <UNK> strings )
+fix the crash for the datasource cloudfoundrydatasourceconfiguration cloudfoundrydatasourceconfiguration cloudfoundrydatasourceconfiguration cloudfoundrydatasourceconfiguration cloudfoundrydatasourceconfiguration production ' t support <UNK>
+fixed a bug in candlestickchart <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updates libjitsi to <UNK>
+edited wiki page frontpage2 through web user interface
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> <UNK> apk
+try to fix <UNK> cluster goalprefix goalprefix plugin / <UNK>
+translated using weblate ( <UNK> ) currently translated at 6 . 9 % ( <UNK> of <UNK> strings )
+release 1 . 13 . 3 for es 5 . 2 . 0
+added demo gif
+[ maven - release - plugin ] prepare for next development iteration
+start <UNK> when running <UNK> if not <UNK>
+added a null call to avoid <UNK> test
+translated using weblate ( hungarian ) currently translated at 100 . 0 % ( 1660 of 1660 strings )
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of <UNK> strings )
+make this 2 . 9 . 4beta
+removed dependency to commons - collections - collections . 2
+removed spurious system . out . println statements
+upgrade to vaadin 7 . 6 . 3
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ gradle release plugin ] - pre tag commit : ' 2 . 2 . 0 '
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed <UNK> import
+upgrade to spring boot 1 . 1 . 2
+increase the <UNK> timeout to use jenkins <UNK>
+add new apk
+addresstype addresstype shoe_store (" shoe_store (" unknown to make <UNK>
+added 23 - 23 - 23 to travis config
+context the rawtypes rawtypes clazz (" the clazz clazz clazz class )
+[ pom ] update jhighlight 1 . 0 . 3
+updated readme . md
+added public to knowledgebaseadapter knowledgebaseadapter () when <UNK> <UNK>
+added kubernetes reference to docs
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added check for socket - null
+test
+v2 . 13 . 0
+bumped version to 0 . 7 . 16
+include integration test from logging
+release 0 . 2 . 0
+fixed missing license
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bumped version to 2 . 4beta17 @ branch - specific
+<UNK> label info
+translated using weblate ( sardinian ) currently translated at <UNK> . 7 % ( <UNK> of <UNK> strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add missing <UNK>
+translated using weblate ( french ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+label recents recents recents recents // freebie
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( russian ) currently translated at 99 . 7 % ( <UNK> of 1635 strings )
+add new apk
+added file file
+add <UNK> screenshots
+added truststore truststore truststore truststore <UNK> the
+added android studio navigation directory to . gitignore
+gradle 4 . 0
+add return return return
+upgrade to mockito - core 2 . 8 . 47 fixes gh - <UNK>
+added reset to null
+translated using weblate ( slovak ) currently translated at 99 . 9 % ( 2515 of 2516 strings )
+added travis
+upgrade linq4j linq4j linq4j to release version to 0 . 3
+fixed <UNK> () method
+readme
+betayota betayota checkout merge
+translated using weblate ( bulgarian ) currently translated at 15 . 9 % ( <UNK> of 2338 strings )
+mdrawfocuseditem mdrawfocuseditem private modifier so that we <UNK> <UNK> to be <UNK>
+bumped version to 2 . 5beta21 @ branch - specific
+todo : fixed removed to be ( long )
+<UNK> the full windows of addrbook wind32_mean_and_leak . x
+remove unused import
+<UNK> spurious spurious <UNK> of <UNK> . disposestatefulsession ()
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+common <UNK> for <UNK> ( fixes # <UNK> ) svn changeset : <UNK> / svn branch : trunk
+removed unused final in finddeferredbindingsitesvisitor finddeferredbindingsitesvisitor problemreporter problemreporter <UNK> )
+<UNK> out plugin
+support for version
+fixed class error
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( ukrainian ) currently translated at 0 . 0 % ( 1 of 740 strings )
+sample to fix <UNK>
+<UNK> the <UNK> public to avoid the build build class
+upgrade to spring cloud finchley finchley finchley finchley finchley finchley finchley finchley finchley # <UNK>
+remove libraries
+add api docs to pom - docs
+signed - off - by : jeeeyul < jeeeyul @ gmail . com >
+docker - docker : make docker kill docker
+updated appveyor yml
+commented out code info info
+edited readme . md
+<UNK> () is now <UNK>
+bugfix : only <UNK> - if verbose - if only == <UNK> () if the type is <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> sqlcipher submodule to tag v2 . 0 . <UNK>
+[ maven - release - plugin ] prepare release v0 . 2 . 9
+call call notification notification <UNK> <UNK>
+removed log_file check from daily_build build . sh
+upgrade to tycho 0 . 21 . 0 fixes # 23
+send stop cmd to sendcmdtoagent sendcmdtoagent target
+translated using weblate ( russian ) currently translated at 93 . 5 % ( <UNK> of 641 strings )
+updates libjitsi . jar ( built on
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> the <UNK> <UNK> <UNK> to make the <UNK> class <UNK>
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+changed test case to prevent <UNK>
+fix apps <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+update apk
+pom . xml
+updated changelog
+fixed <UNK> <UNK> signed - off - by : kai kreuzer < kai @ openhab . org >
+fix <UNK> bug in vehicleroutingimporter vehicleroutingimporter new <UNK> <UNK>
+upgrade build tools to 23 . 0 . 1
+updated the <UNK> locale for <UNK> using the <UNK>
+fixed swingx swingx compile build in tag . xml
+readme
+build jar
+remove sure for file <UNK>
+updates libjitsi to <UNK>
+release 1 . 0 . 0
+added out analytics analytics analytics analytics <UNK> <UNK>
+making onkeypressed public public
+remove parseint event . target . value
+translated using weblate ( russian ) currently translated at 98 . 3 % ( <UNK> of <UNK> strings )
+update travis build tools
+created - 64 pull for <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 874 of 874 strings )
+translated using weblate ( ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( argentinean spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( arabic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix <UNK>
+fixed build status
+bumped version to 0 . 8 . 8
+add script to script
+added <UNK>
+close flush classloader <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+fix travis build
+updated readme . md
+fixed 18 to allow 18 if 18 is not <UNK>
+updated version
+using push to docker
+[ maven - release - plugin ] prepare for next development iteration
+trying to fix travis build
+bump version
+extra former - commit - id : <UNK>
+add the link to download http binary
+expanded regex for idnumber test
+removed bad line in gitignore
+link to ci
+fix <UNK> in geckowebviewprovider geckowebviewprovider geckowebviewprovider <UNK> ()
+skip <UNK> .*' <UNK> <UNK>
+added selection_divider mdpi 9
+fix <UNK> test
+update guide projects
+command the ` teachtemplateall teachtemplateall maketemplateforgetall teachtemplateall teachtemplateall teachtemplateall - <UNK> ] <UNK> <UNK>
+using image <UNK> icons
+update to 45 release of airbase version
+added rm1_unigram_quick rm1_unigram_quick list to <UNK>
+updated readme
+bumped version to 0 . 7 . 11
+readme
+[ jboss - fuse - 6 . 1 . x 045 ] updating perfectus - build number to new build
+added upnp transport feature (# <UNK> ) signed - off - by : kai kreuzer < kai @ openhab . org >
+translated using weblate ( dutch ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+changed the project version to 1 . 1 - snapshot
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated readme
+translated using weblate ( sardinian ) currently translated at 99 . 6 % ( <UNK> of 2288 strings )
+updated gradle plugin
+sample - 1 . 3 . 1
+<UNK> <UNK> encoding encoding <UNK> encoding <UNK> <UNK> encoding <UNK> <UNK> encoding <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> " encoding into <UNK> . encoding ()
+add special null method for null null ( <UNK> () )
+fixed thinghandlercallback thinghandlercallback thinghandlercallback thinghandlercallback side - id : <UNK> signed - off - by : <UNK> <UNK> < <UNK> @ <UNK> . de >
+fixed crash when <UNK> <UNK> when moving to be lost if it doesn ' t exist for <UNK>
+runtime - svn - id : https :// only . mawhrin . net / repos / fbreaderj / trunk @ <UNK> 6a642e6f - - - - - ac94 - c4a38d5a04b0
+add dependency to 0 . 0 . 5
+about sheffield sheffield sheffield sheffield . html
+fixing <UNK> of <UNK> . gradle
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed <UNK> <UNK> <UNK>
+[ maven - release - plugin ] prepare release sql2o - 1 . 2 . 0
+updated jar
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1737 of 1737 strings )
+[ maven - release - plugin ] prepare release jackson - core - 2 . 0 . 0 - rc2
+change provider test
+don ' t null null for https :// github . com / <UNK> / chronicle / commit / <UNK>
+updates maven version to 1 . 1 . 5
+img to fix <UNK> / img . md
+[ maven - release - plugin ] prepare release sqlite - jdbc - 3 . 7 . 15 - m1
+fixed null loop for <UNK>
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of 1845 strings )
+fixed update_min_frequency issue # 22
+upgrade to spring framework 1 . 2 . 1
+[ maven - release - plugin ] prepare release pushy - 0 . 5 . 2
+remove unused test files
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added <UNK> button <UNK>
+fixed type of preferences preferences getlanguage getlanguage language_name_id <UNK> - <UNK>
+add . clover . clover to . gitignore
+try to fix npe in cmdserviceimpl trace when <UNK> <UNK> is not valid
+[ drools - <UNK> ] avoid <UNK> to be <UNK> <UNK> from a new resources
+[ maven - release - plugin ] prepare release spring - cloud - build - 1 . 3 . 8 . release
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1638 of 1638 strings )
+make this 2 . 8
+icon removed
+add aspectjweaver dependency to the aspectjrt aspectjrt plugin plugin
+fixed docs in <UNK> docs
+updates ice4j to <UNK>
+removed config save
+fixed <UNK> that can crash if the <UNK> is not opened
+added javadocs to return the iterator about the rules
+[ java - release ] next release 3 . 0 . 1 . release
+added . deps
+update gradle - plugin to 2 . 1 . 0 - rc1
+removed extra test
+[ maven - release - plugin ] prepare release v2 . 2 . 0
+added crashlytics crashlytics crashlytics properties to . gitignore
+added jar files
+fix : add a comment about simulcastsender null method
+<UNK> mockito upgrade to 7
+add remove remove remove remove parameter on listiterator interface
+translated using weblate ( turkish ) currently translated at <UNK> . 9 % ( <UNK> of <UNK> strings )
+kylin <UNK> config to use a <UNK> license as it ' s not <UNK> license
+<UNK> <UNK> - level <UNK> - <UNK> <UNK> to support , <UNK> <UNK>
+removed println
+working on selenide 2 . 22
+fixed issue <UNK> compilation error
+shutdown <UNK> <UNK> . _shutdown . shutdown ()
+[ maven - release - plugin ] prepare release mango - 1 . 2 . 7
+fixed bug in waveview shapetype 0 . <UNK> ()
+fixed typo in the javadoc (# <UNK> )
+added mockserver & for netty
+added <UNK> components to <UNK> svn changeset : <UNK> / svn branch : 6 . 8
+[ maven - release - plugin ] prepare for next development iteration
+add todo for thread tests
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( 1635 of 1635 strings )
+update gradle - tools to 2 . 2 . 3
+update to the latest version of the bom
+adds changelog entry for previous commit
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bumped version to 2 . 5alpha23 @ branch - specific
+translated using weblate ( catalan ) currently translated at <UNK> . 7 % ( <UNK> of <UNK> strings )
+fixed hasexternalsubs hasexternalsubs subtitles hasexternalsubs renderer subtitles subtitles setting tag
+bump the version of the windows
+updated to 3 . 0 . 0
+add gradle integration script
+don ' t open <UNK> . <UNK> ()
+[ maven - release - plugin ] prepare release qrgen - 1 . 3
+readme
+add cloud spring spring
+update screenshot
+add another <UNK> unit test
+working on selenide 4 . 3
+adding a more <UNK> to readme
+fixed for issue <UNK> : different <UNK> to run a a a a a a a a a a a a a a a a a a a specified to match the a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
+updated version of readme . md
+translated using weblate ( kabyle ) currently translated at 21 . 0 % ( <UNK> of 2536 strings )
+updated gif to include gif that <UNK> has done with the first place
+removed spark spark from spark readme
+added gitter gitter badge
+<UNK> : <UNK>
+<UNK> test linux
+translated using weblate ( catalan ) currently translated at <UNK> . 5 % ( <UNK> of <UNK> strings )
+check if the email exists is <UNK> before trying to get the chat window if it is no the chat window
+<UNK> 1 . 0 . 2 - snapshot
+[ maven - release - plugin ] prepare release docx4j - 3 . 1 . 0
+fix test
+updated pom . xml to include <UNK> parent parent
+updated readme
+gh - <UNK> - updated wiki file
+fixes typo in bat
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( lithuanian ) currently translated at 2 . 2 % ( 61 of 2755 strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+check if the null is null before <UNK> before <UNK> before other a null
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed a bug where blur blur bitmap bitmap bitmap <UNK> , <UNK> this , <UNK> , but <UNK> a <UNK>
+make all non - java source transient to # <UNK> svn changeset : <UNK> / svn branch : 6 . 7
+upped version svn changeset : <UNK> / svn branch : 6 . 4
+enums getjavatypecategory getjavatypecategory column <UNK>
+try to fix travis ci on travis
+update the readme
+<UNK> <UNK>
+updated changelog
+[ artifactory - release ] release version 3 . 1 . 3 . release
+translated using weblate ( french ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+remove unused import
+bumped version to 2 . 4alpha33 @ branch - specific
+check if the component is null before <UNK> () before <UNK>
+<UNK> out a <UNK> , never had <UNK> from spurious <UNK> , which had the first code
+<UNK> : remove removed module
+releasing null for first release
+[ jboss - fuse - 6 . 1 . x 061 ] updating perfectus - build number to new build
+updated changelog
+bump to 6 . 12 . 41
+remove unused test from test
+fixed issue with <UNK> <UNK> on screen notification
+added jar to add project
+added accounts accounts accounts json to countlocalmessages users
+removed mockserver from image
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+translated using weblate ( german ) currently translated at 100 . 0 % ( 2094 of 2094 strings )
+fix issue with <UNK> <UNK>
+<UNK> : use <UNK> error for travis
+edited wiki page downloads through web user interface
+remove <UNK> . out . println ()
+remove old test
+changed generateircodecs generateircodecs task to be coverage so that it doesn ' t <UNK> <UNK>
+translated using weblate ( portuguese ( brazil )) currently translated at 100 . 0 % ( 1874 of 1874 strings )
+fixed header
+translated using weblate ( belarusian ( latin )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+v1 . 6 . 0
+fix error for lucene null
+[ pom ] update tomcat7 to 7 . 0 . 77
+[ drools - <UNK> ] entry <UNK> to entry skip <UNK> <UNK>
+update readme
+updated travis verbose for <UNK> <UNK>
+update readme
+[ <UNK> ] fix # <UNK>
+bump open - replicator this <UNK> up the <UNK> - replicator <UNK> <UNK> for <UNK> - <UNK> <UNK>
+min min . js file
+gh - <UNK> - removed <UNK> script
+translated using weblate ( italian ) currently translated at 100 . 0 % ( 1861 of 1861 strings )
+upgrade to the latest of java boot compile
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixing <UNK> creation in logfetch }' logfetch }'' '{ '{ '{ '{ }'' }'' x plugin change - id : <UNK>
+removed an extra import
+fix application index msetting msetting application
+[ maven - <UNK> ] <UNK> server_version server_version server_version 11 in travis
+added comment about the file
+[ maven - release - plugin ] prepare release mango - 1 . 18
+fix release test <UNK>
+translated using weblate ( catalan ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed build build
+removed <UNK> println
+translated using weblate ( swedish ) currently translated at 99 . 5 % ( <UNK> of <UNK> strings )
+removing system . out . println debug block for println
+renamed a correct icon
+added a script
+fixed <UNK> progress
+added a maven wrapper
+[ pom ] switch <UNK> plugin to language level
+updating =./ release
+[ artifactory - release ] next development version 2 . 5 . 0 . build - snapshot
+translated using weblate ( german ) currently translated at 100 . 0 % ( 1999 of 1999 strings )
+add 1 . 1 . 2
+remove <UNK> launch launch launch launch . docbook
+fixed a duplicate comment in actions
+add the missing spark spark to seldon - up
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+changed blas blas libblas3 libblas3 libblas3 libblas3 travis - <UNK>
+<UNK> openjdk8 openjdk8 openjdk8 openjdk8 openjdk8 openjdk8 openjdk8 openjdk8 openjdk8 8 ?
+make columnmapper public public
+added csharp_dal_hints_timeout . png
+translated using weblate ( polish ) currently translated at 99 . 9 % ( <UNK> of 2332 strings )
+removing useless - <UNK> . testjob
+removed redundant super . java
+gh - 1619 - removed unused line
+<UNK> 1 . 3
+<UNK> 12
+<UNK> source <UNK> filter
+remove push . whispersystems . textsecure . push . push
+pre4 1 . 16 . 24 as target to fix travis ci
+git - svn - id : http :// protostuff . googlecode . com / svn / trunk @ <UNK> 3b38d51a - 9144 - 11de - 8ad7 - 8b2c2f1e2016
+[ calcite - <UNK> ] fix <UNK> <UNK> in interval
+transactionslistfragment setretaininstance transactionslistfragment setretaininstance setretaininstance
+added bourgain bourgain bourgain bourgain - 31 <UNK>
+translated using weblate ( slovenian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare for next development iteration
+updating to pgplugin base class , cf [ issue # 44 ]( https :// github . com / phonegap / phonegap - plugins / issues / 44 )
+changed default size to 0
+[ artifactory - release ] next development version 3 . 0 . 6 . build - snapshot
+added codegen_setup_db_step2 . png
+translated using weblate ( polish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed incorrect osmand file
+update apk
+add <UNK> to <UNK> in the test
+updated readme
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1636 of 1636 strings )
+added 2dip 2dip 2dip to the <UNK> <UNK>
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 4 . 5 . 1
+translated using weblate ( <UNK> ) currently translated at 0 . 7 % ( <UNK> of <UNK> strings )
+fixing minor bug in abstractjdbcdatamodel . <UNK> () that was <UNK> by default
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+opening up development for v0 . 1 . 21
+changed travis to <UNK>
+release selenide 2 . 9 . 2
+fix build
+translated using weblate ( danish ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+gh - <UNK> fix typo in getjobexecutorthreadcount string
+added . build directory to . gitignore
+fix build script
+edited release notes
+fixed bug when <UNK> <UNK> to be <UNK> if <UNK> is not <UNK>
+release 2 . 0 . 2
+fix debug
+bumped version to 2 . 2beta20 @ branch - specific
+translated using weblate ( ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> <UNK> ' s <UNK> <UNK> to avoid <UNK> <UNK>
+v2 . 7
+add ... to ignore io io io io
+downgrade back to smack 4 . 2 . 0 - rc2 - snapshot
+<UNK> test did not <UNK> <UNK>
+removes redundant disabled ={{ disabled ={{ not
+added pwith pwith - cli - cli in parent project
+removed redundant code for indexedcontainer false (# <UNK> ) svn changeset : <UNK> / svn branch : 6 . 7
+update readme
+added some <UNK> properties files
+add test to gls 5754 - 5754 - plugin still works in <UNK>
+fasttag_v2 fasttag_v2 fasttag_v2 <UNK> 1 . 0
+checking in the <UNK> models models models models
+fixed issue with <UNK> <UNK> not <UNK> <UNK> in the containerlist container
+translated using weblate ( arabic ) currently translated at 45 . 5 % ( <UNK> of 2755 strings )
+[ maven - release - plugin ] prepare for next development iteration
+removing unused import
+fixed <UNK> <UNK> logic issue svn changeset : <UNK> / svn branch : 6 . 7
+mysqlsql30 mysqlsql30 mysql mysql
+added missing torod el el torod el <UNK> <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+[ gradle release plugin ] - new version commit : ' 0 . 1 . 5 - snapshot '
+gobblin rest - service from sdk - service
+[ gradle release plugin ] - new version commit : ' 2 . 0 . 3 - snapshot '
+added date for date <UNK>
+changing the port timeout to 8089 8088 8088 seconds
+[ spec ] 2 . 5 . 0
+set <UNK> <UNK> to 0
+fixed npe in osmandaidlservice callback when <UNK> <UNK>
+updated changelog
+fixed <UNK> <UNK> name for <UNK>
+removed unused import
+fixed typo in <UNK> . sh
+remove jar
+added intellij swp swp gitignore files
+make useruserratingrecommender final <UNK>
+dependenciesvalidator : fix <UNK> ... ... <UNK> this , this <UNK> this ' s settings
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bumped version to 2 . 2alpha92 @ branch - specific
+<UNK> error <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> exceptions setup exceptions exceptions exceptions exceptions exceptions exceptions exceptions exceptions exceptions exceptions exceptions exceptions
+demo media
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated readme . asciidoc
+[ gradle release plugin ] - pre tag commit : ' 0 . 1 . 15 '
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( 2516 of 2516 strings )
+fix docker - ci script
+<UNK> up cpuslimit taskstatistics llmit cpuslimit
+update animatedprogressbar animatedprogressbar widget <UNK>
+fixed makefile in mvn makefile
+lang - ui local tests
+update section
+make edgesource iterator iterator
+check fix for null
+try to fix publishing error on task
+mvn : updates libjitsi
+allow the current 3 3 vars if hadoop_job_conf hadoop_job_conf 3
+added tests for the existence existence return setting
+upgrade <UNK> binaries for <UNK>
+added <UNK> files to sqlcipher folder
+remove archives archives archives archives <UNK> from master / <UNK> - bindings sourcesjar bindings sqlite memory on windows
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1745 of 1745 strings )
+correct mvn script to mvn 3 . x . 3 - bin
+fix wrong constants
+fixed felix showgrowbox showgrowbox felix . <UNK> . dyld_library_path : updating . dyld_library_path . path )
+<UNK> fix for view view
+changed the <UNK> () for the tostring () <UNK>
+socialnetlib 50 <UNK> to 100 <UNK> api - ci
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+updated to new 1 . 2 . 2
+removed unnecessary code from ilabel mode svn changeset : <UNK> / svn branch : trunk
+android - <UNK> : update to 1 . 5 . 0 - snapshot
+set to latest release of compiler for compiler
+add missing <UNK> field
+[ fabric - <UNK> ] error agent on deploymentagent error
+bumped version to 2 . 0 . 2beta2
+bumped version to 1 . 1beta3
+translated using weblate ( traditional chinese ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+ignore the @ log_append log_append =-
+added travis support
+https :// github . com / fengjiachun / jupiter / issues / 33
+make init current timestamp dependency in pom . xml svn changeset : <UNK> / svn branch : trunk
+added history comment for history . newitem svn changeset : <UNK> / svn branch : trunk
+translated using weblate ( italian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( esperanto ) currently translated at 99 . 8 % ( <UNK> of 2755 strings )
+removes all <UNK> , since it doesn ' t work
+add reference to # . <UNK> . 0
+port a port for <UNK>
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+update travis
+remove unused require <UNK> from aggregatetail require <UNK>
+changed collectiontype uuid uuid this to uuid uuid _data from the <UNK>
+changed localoutgoingserversession dialback remote <UNK> to sasl sasl remote <UNK>
+remove duplicate <UNK> from lucene output
+fix <UNK> <UNK> getcontext getcontext context
+updated to the latest version
+[ maven - release - plugin ] prepare for next development iteration
+add @ stoptaskpoll stoptaskpoll stoptaskpoll stoptaskpoll stoptaskpoll stoptaskpoll stoptaskpoll <UNK> , i <UNK> <UNK> on the class profile <UNK>
+added link to blog list
+removed submodule
+fix travis - ci build
+<UNK> schema only for mysql
+update readme
+added build to volume remove tests <UNK>
+removed a unnecessary system out
+add some <UNK> for abstractcelllisthandler nodeeditor nodeeditor <UNK> : <UNK> still still too by <UNK> <UNK>
+* added check to see if the images is images before creating the images
+removed <UNK> architecture to the <UNK> class
+fixed failing drop - on table - for - date for oracle - <UNK>
+upgrade to mariadb mariadb mariadb mariadb mariadb mariadb mariadb mariadb mariadb mariadb https :// github . com / mariadb / mariadb - <UNK> / issues / <UNK> )
+added temporary for set system locale configuration
+fixed monte 0 ;) 0 ;)
+release 0 . 9 . 8
+added layer7 layer7 branded title to the branded branded branded <UNK> simple apps
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add extra background from <UNK>
+edited wiki page frequentlyaskedquestions through web user interface
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( 1635 of 1635 strings )
+upgrade to cehberlin cehberlin cehberlin build . date . 0
+added 1 . 0 to the current version since it can previously previously previously previously
+bumped version to 2 . 3alpha45 @ branch - specific
+add sun . misc ., sun
+[ maven - release - plugin ] prepare for next development iteration
+add apis gitignore
+translated using weblate ( portuguese ( brazil )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+changed the cdh id id for cdh - 5 to cdh5 cdh5 . 7
+removed check for unnecessary context
+updated changelog
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed wrong ultrafast superfast superfast superfast superfast <UNK>
+add ]]></ ]]></ footer footer footer footer
+updated the travis <UNK> for <UNK>
+updated binaries
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added entity
+<UNK> <UNK> call
+bumped version to 2 . 3beta21 @ branch - specific
+upgrade to slf4j 1 . 5 . 5
+<UNK> gitignore
+clean up submodule
+gh - <UNK> updated commons to reflect versions of avro apache apache 7
+rev version
+<UNK> unused created setting
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+gh - <UNK> - fixed issue in test
+add note to <UNK>
+[ spark ] <UNK> unit spark . writenull null can return a generator for <UNK> in scala # writenull
+updated the snapshot <UNK>
+translated using weblate ( slovak ) currently translated at 72 . 7 % ( <UNK> of 3062 strings )
+set severe level to severe level
+translated using weblate ( azerbaijani ) currently translated at 10 . 9 % ( <UNK> of 3102 strings )
+release 4 . 7 . 0 beta
+protostuff header
+[ maven - release - plugin ] prepare release unirest - java - 1 . 3 . 22
+[ resteasy - <UNK> ] prevent <UNK> . servletcontext protected (# <UNK> )
+remove removecells index . removecells . index change - id : <UNK>
+updated readme
+<UNK> paddingstart paddingstart paddingstart 8dp paddingstart <UNK>
+[ pom ] update jmockit 1 . 29
+cliplistviewcreator cliplistviewcreator cliplistviewcreator layout
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare for next development iteration
+added setter for <UNK>
+added mv mv gradle . properties
+trying to fix travis build
+[ maven - release - plugin ] prepare release unirest - java - 1 . 3 . 0
+add missing @ gwtincompatible @ <UNK> annotation
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of <UNK> strings )
+updated gradle build tools version
+translated using weblate ( <UNK> ) currently translated at 0 . 7 % ( <UNK> of <UNK> strings )
+pom
+using <UNK>
+add suppresswarnings serial serial suppresswarnings suppresswarnings serial <UNK> , <UNK> , it is not <UNK> to see with the serial serial serial , e , but does not <UNK> it with the user
+release 3 . 0 . 8
+translated using weblate ( <UNK> ) currently translated at 0 . 7 % ( <UNK> of <UNK> strings )
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+gh - <UNK> - updated the method
+make sure that destflow copy could be null before <UNK> before <UNK> before <UNK>
+handle <UNK> when repo
+bump build version to <UNK> # <UNK>
+mvn : updates libjitsi
+fixed <UNK> <UNK> icon
+<UNK> () should be changed ( so not make <UNK> )
+[ 0 . 5 . 3 ] upped version
+add image
+translated using weblate ( czech ) currently translated at 99 . 4 % ( <UNK> of <UNK> strings )
+translated using weblate ( turkish ) currently translated at 15 . 4 % ( <UNK> of 2760 strings )
+added note about the layout of the approximation approximation an javadoc <UNK>
+updated changelog
+fixed <UNK> <UNK> <UNK> , <UNK> a <UNK> <UNK> to be <UNK> with height in # <UNK> svn changeset : <UNK> / svn branch : 6 . 4
+fixed bug in osmand when <UNK> is not null
+translated using weblate ( italian ) currently translated at 99 . 9 % ( <UNK> of 1861 strings )
+updates libjitsi . jar ( built on
+added f f f f f f f f f f - <UNK> to <UNK> eclipse apps is missing by missing
+changed number of warn to log
+removed reopen reopen reopen reopen reopen reopen reopen effect
+[ calcite - <UNK> ] make javadoc for <UNK>
+[ maven - release - plugin ] prepare release lanterna - 3 . 0 . 0 - alpha1
+updated 3 . insertionsort . md
+add some comment
+fix for issue <UNK> on <UNK> <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+remove 0 . 5 . 0 that ' t <UNK> <UNK> for ' <UNK> '
+adding distinct distinct + to the trunk
+<UNK> <UNK> <UNK>
+<UNK> <UNK> <UNK> on <UNK>
+updating readme . md to <UNK> to latest latest release snippet
+add gridview gif to readme
+[ kie - <UNK> ] add meta . conf . resource to kie - ci - plugins
+modified <UNK> to <UNK> and new <UNK>
+[ fabric - <UNK> ] make <UNK> . runcallbacks protected so that we have no <UNK>
+updated readme
+added comment on brakes brakes check svn changeset : <UNK> / svn branch : trunk
+updating hermes installer in hermesinstall . bat
+<UNK> the <UNK> test
+fixed npe in timer when an timer uidl timer has been found (# <UNK> ) change - id : <UNK>
+add <UNK> read to plugin
+forgot to fix <UNK> of protocolproviderservicesipimpl sip - <UNK>
+gh - <UNK> - test test
+[ gradle release plugin ] - pre tag commit : ' 1 . 5 . 0 '
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+prepare for 2 . 0 . 1 release
+removed @ <UNK> to be jdk 5 <UNK>
+translated <UNK> <UNK>
+[# <UNK> ] compactargumentsinspector compactargumentsinspector <UNK>
+updated readme . md to <UNK> the latest version in readme
+fixed dist script
+update pom
+changed ffmpeg of ultrafast superfast superfast ultrafast ultrafast <UNK> to <UNK> with ffmpeg to be <UNK>
+<UNK> <UNK> - <UNK> version for oracle - time <UNK> : <UNK> other other <UNK>
+updated changelog
+removed welcome welcome welcome welcome ' s ' s <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+remove think taskcheckforstalepads taskcheckforstalepads taskcheckforstalepads taskcheckforstalepads taskcheckforstalepads # <UNK> , <UNK> / <UNK>
+added fixed detail to issues
+adding hamcrest - all - all as it has <UNK> <UNK>
+[ pom ] update tomcat7 to 8 . 0 . 43
+added check for null <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+gitignore
+updated readme . md to <UNK> to latest version in readme
+translated using weblate ( hungarian ) currently translated at 99 . 9 % ( <UNK> of 2760 strings )
+demo art fix
+fixed typo in trace statement
+fix 38 <UNK> statement in bugfix
+release 1 . 9 . 3
+remove touchscreen keyboard <UNK> " <UNK> "
+<UNK> the doc of now done "
+translated using weblate ( chinese ( simplified )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixes issue # <UNK> - <UNK> ymsg_network_v0_61 ymsg_network_v0_61 ymsg_network_v0_61 <UNK> in ymsg_network_v0_61 <UNK> . <UNK>
+translated using weblate ( esperanto ) currently translated at 99 . 8 % ( <UNK> of 2755 strings )
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( 1861 of 1861 strings )
+added libs to libs permissions : http :// <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+use the <UNK> <UNK> <UNK> to <UNK> ( <UNK> , <UNK> , <UNK> )
+added missing data statements to utils
+updated to v0 . 7 . 0
+v2 . 2 . 4
+added <UNK> "` `/. gradle
+[ maven - release - plugin ] prepare for next development iteration
+release 2 . 3 . 1
+fixed <UNK> that occurs if it ' s not been <UNK> if it is not <UNK>
+fix a typo in the bat bat
+added additional cobertura plugin plugin
+make synchronized synchronized synchronized
+translated using weblate ( polish ) currently translated at 100 . 0 % ( 2008 of 2008 strings )
+upgrade to httpmime httpmime httpmime version
+added tostring ()
+added missing circlepitchalignment iconpitchalignment iconpitchalignment test
+translated using weblate ( norwegian bokml ) currently translated at 8 . 5 % ( <UNK> of <UNK> strings )
+dist target to include jars to run jars of <UNK>
+changed default property for <UNK> <UNK>
+* use meta audio to update the correct rest to update from windows sequence
+translated using weblate ( russian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+fixed <UNK> to use unittoowner unittoowner . get <UNK>
+[ 0 . 2 . 2 ] upped version
+guava guava update
+[ ci ] correct javadoc for <UNK> . basegetconnectorcontroller class
+updated changelog
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ drools - 7 ] remove the activation from a lefttuple lefttuple lefttuple
+fix <UNK> secondary
+increase the heap test for <UNK>
+updated changelog
+updated readme to reflect complex corrected complex cast
+fix jsp jsp code for <UNK> devices
+changed this to return the this for the null method
+update pom
+added file to messages
+fixed a bug in lastindexappendedtest test
+added csharp_dal_sharding_table . png
+update readme . md
+added bin directory to . gitignore
+remove loklak susiserver
+fix the ]*=[ 1 1 / <UNK> / versions - versions " ]*'(.*)'/ ]*'(.*)'/ " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+updated readme . md
+<UNK> <UNK> type for feature to support src - <UNK>
+fix a bug in apnspayloadbuilderbenchmark benchmark benchmark
+add <UNK> to test when <UNK> results
+set default value for java static
+[ gradle release plugin ] - pre tag commit : ' 0 . 1 . 8 '
+adding note regarding to readme
+translated using weblate ( german ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+upgrade 2 . 2 . 2 beta3 beta3 2 . 2 . 2
+fix isrequired isrequired true " be <UNK>
+[ issues ] <UNK> issues in issues with google / compile . com
+[ gradle release plugin ] - new version commit : ' 2 . 0 . 1 - snapshot '
+fix : <UNK> - lang3 - version must be used
+removed unused remove remove remove file
+forgot to commit <UNK> ' s full dir
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix info creation for process . rootlogger . rootlogger info
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bump version to 3 . 0 . 12
+bumped version to 2 . 3alpha35 @ branch - specific
+[ maven - release - plugin ] prepare for next development iteration
+updated readme . md
+added smooth smooth functionality functionality functionality functionality # <UNK>
+added <UNK> () to the lmscore lmscore edge
+adding mvn site to travis config
+make the <UNK> class - <UNK> - <UNK> for now
+[ maven - release - plugin ] prepare release v2 . 6
+[ resteasy - <UNK> ] use build tools to build . 0 . 1
+[ c <UNK> <UNK> not typo in presence class
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> is the api <UNK> ( the stable parent )
+updated to next development version : 1 . 1 . 1 - snapshot
+remove reference to ccallhierarchy support on ganymede site
+[ artifactory - release ] release version 3 . 1 . 0 . m2
+removed windowclosing windowclosing windowclosing length length from <UNK>
+print to fix exceptions that compatibility to have the compatibility
+add max width
+translated using weblate ( german ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+check if the exception is thrown before moving before <UNK> before <UNK>
+added project to repo
+added the createcopy createcopy createcopy () method
+added the mysql jar
+fix for # <UNK> . currenttimemillis system can be <UNK>
+add <UNK>
+add <UNK> to readme
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( lithuanian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+fix gradle syntax <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add ptr ptr ptr static to the objcobject <UNK>
+fixed readme case
+fix for <UNK> ( without <UNK> )
+translated using weblate ( hungarian ) currently translated at <UNK> . 8 % ( <UNK> of 3062 strings )
+apk
+add a @ override override
+<UNK> clientid clientid clientid clientid clientid clientid clientid clientid clientid t t need to get it
+v0 . 11 . 2
+mvn : updates libjitsi
+added travis support
+update screenshot
+added logging message to debug level
+use the <UNK> container to <UNK> small tests
+update gradle - tool to 2 . 1 . 0
+renamed test scope to prevent <UNK>
+uses <UNK> ( <UNK> ) for <UNK> - 1 on <UNK> / linux
+add catch to <UNK>
+added getdatabasepath getdatabasepath getdatabasepath string to javase impl
+update readme
+translated using weblate ( russian ) currently translated at 94 . 3 % ( <UNK> of <UNK> strings )
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> serialversionuid serialversionuid serialversionuid serialversionuid request
+fix wrong applicationqueuemanager null method
+mvn : updates libjitsi
+[ maven - release - plugin ] prepare for next development iteration
+gh - <UNK> - added <UNK> <UNK>
+improve website in <UNK>
+added a comment to <UNK> that an override computed an override computed null
+fix travis build
+added <UNK> flag to <UNK> svn changeset : <UNK> / svn branch : trunk
+register target <UNK> <UNK> for app
+add images
+[ maven - release - plugin ] prepare release mockserver - jetty - 2 . 5
+check for clienthost debug before <UNK> <UNK>
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( 1809 of 1809 strings )
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+corrected description in the comment
+added support for null <UNK>
+added owners owners owners background file
+<UNK> <UNK> . ipr from the gitignore
+added <UNK> () to baf baf bjsrinst <UNK> <UNK> <UNK> <UNK>
+remove unnecessary upgrade
+added loggerutils class class to loggerutils loggerutils import
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( 2103 of 2103 strings )
+try jenkins + client
+removed a import
+unused import
+[ jboss - fuse - 6 . 1 . x 124 ] updating perfectus - build number to new build
+[ docs ] readme . txt
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bugfix : <UNK> channel to <UNK> ()
+deleted test file
+translated using weblate ( dutch ) currently translated at 44 . 8 % ( <UNK> of 3102 strings )
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare release v0 . 3 . 1
+add no longer longer longer longer longer <UNK> <UNK>
+added slf4j - api <UNK> to jar ( fixes # <UNK> )
+<UNK> : <UNK> . setduedate . <UNK> is being used by task
+comment out installplugin . installplugin ("/ ("/ ("/ test )
+fix wallet null debug
+add id to id id with the app <UNK>
+updated todo
+fixed <UNK> <UNK>
+update readme
+added bluetooth bluetooth permission
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+making defaultd2rtranslator defaultd2rtranslator public public
+do not delete timezone timezone timezone timezone timezone <UNK> , <UNK> / <UNK> / <UNK>
+translated using weblate ( persian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( belarusian ( latin )) currently translated at 100 . 0 % ( 2564 of 2564 strings )
+added users to readme
+added <UNK> ++ linux to cmakelists linux var var
+added string <UNK> to <UNK>
+[ maven - release - plugin ] copy for tag release - 0 . 8
+removed log statement
+fix : <UNK> ()); ()); ()); key
+change generator to 0 . 6 . 2
+add easyrulesconstants easyrulesconstants easyrulesconstants easyrulesconstants easyrulesconstants easyrulesconstants <UNK> to easyrulesconstants private
+fix linearview linearview length <UNK>
+adding editorconfig .. editorconfig editorconfig editorconfig .. and help by setting how to see given <UNK> <UNK>
+add docs
+[ artifactory - release ] next development version 3 . 1 . 9 . build - snapshot
+[ maven - release - plugin ] prepare for next development iteration
+ignore the documentation / site
+updated readme
+2 . selectionsort . md
+checking for jdk 1 . 1 . 1
+added tostring ()
+updating changelog for 1 . 0 . 2 release
+<UNK> the <UNK> <UNK> to 1 1 <UNK> . ){ 1
+[ artifactory - release ] next development version 3 . 2 . 0 . build - snapshot
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed <UNK> to <UNK> and <UNK> an <UNK> of <UNK>
+removed interface
+updated version number
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+cleaned up import
+update the httpsessionprotocols httpsessionprotocols httpsessionprotocols http :// github . com / <UNK> / <UNK> / issues / <UNK>
+updated pad_control . js
+[ patch <UNK> / 153 ] <UNK> context lock lock lock lock to lock . release
+[ kylin <UNK> <UNK> ] add hdfs folder to hbase . hdfs . working
+made final in <UNK> of java <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated dmg background with dmg dmg background
+translated using weblate ( lithuanian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+[ drools - <UNK> ] fix drools - multiproject - artifactid osgi (# <UNK> )
+changed to the launchmode label to launchmode label on <UNK>
+added before before before before before before before before <UNK>
+import typeface import
+translated using weblate ( spanish ) currently translated at 100 , 0 % ( <UNK> of <UNK> strings )
+gh - <UNK> - removed unused dependency
+added first <UNK> <UNK>
+logo <UNK>
+updated <UNK> parser to <UNK> . 8 . 7
+switch the indexes indexes log former - commit - id : <UNK>
+removed unused import
+added <UNK> config file
+added extra removevalidator validator ( class )
+[ gradle release plugin ] - new version commit : ' 2 . 0 . 4 - snapshot '
+release 0 . 9 . 6
+added nativebuttonstate button to make <UNK> test change - id : <UNK>
+minor , <UNK> rename rename for <UNK>
+iabhelper iabhelper billing something
+travis openjdk is <UNK>
+<UNK> : fix <UNK> error (# <UNK> )
+translated using weblate ( sardinian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+mysql mysql in mysql
+translated using weblate ( lithuanian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+remove a <UNK> <UNK> for <UNK>
+removed unnecessary @ test annotation
+beta version <UNK> 2 . 0 . 0
+add debug <UNK> to avoid <UNK> <UNK>
+add a compiled to the apk about the apk
+<UNK> the tutorial pdflatex 1 . 0 <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( japanese ) currently translated at 98 . 7 % ( <UNK> of 2317 strings )
+testing without travis script
+warn <UNK> <UNK> when <UNK> <UNK> is <UNK>
+fix npe in table : resolver resolver resolver resolver <UNK> ()
+added tmp / tmp . zip to readme
+[ pom ] add compilerversion compilerversion compilerversion compilerversion compilerversion to mac mac <UNK>
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed the <UNK> to return the () pause pause pause
+use the maven url in maven deploy
+unused import
+made all description svn changeset : <UNK> / svn branch : 6 . 4
+changed to a android bar former - commit - id : <UNK>
+translated using weblate ( polish ) currently translated at 99 . 9 % ( <UNK> of 3432 strings )
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( slovak ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+add legacy import to import
+<UNK> objectclass objectclass objectclass group
+<UNK> <UNK> commands
+fixed restrequestrepresentationsinspector submitcontext context when <UNK> to getresponse getresponse getresponse context context
+added update info for info server
+cyclops cyclops <UNK> of cyclops cyclops cyclops cyclops cyclops cyclops cyclops cyclops cyclops cyclops - <UNK>
+<UNK> 3000 3000 3000 debug
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+signed - off - by : jeeeyul < jeeeyul @ gmail . com >
+[ pom ] update dependency - check - maven to 1 . 4 . 2
+fix status status status when status icon is <UNK> to see if the sip window is they to see if the sip window is they to see if the <UNK> is <UNK>
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+adding brandon brandon maguire maguire to the copyright
+let draw graphics graphics graphics graphics graphics draw draw graphics query ]
+translated using weblate ( slovenian ) currently translated at 99 . 7 % ( <UNK> of <UNK> strings )
+removed unused clone method
+remove the package at the end of <UNK>
+updating android support library version
+bumped version to 2 . 5beta27 @ branch - specific
+fix wrong ranking ranking ranking ranking ranking <UNK> ranking : <UNK> effect at our <UNK> at the <UNK>
+debug travis build
+fixed <UNK> . <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix typo in selenideelement interface
+adding lambda tutorial tutorial lambda tutorial <UNK> on https :// github . com
+fixed npe in wsdltestrequest iswsaenabled null check
+translated using weblate ( norwegian bokml ) currently translated at 8 . 9 % ( <UNK> of <UNK> strings )
+<UNK> uiimageitemproperties repeat repeat repeat repeat repeat <UNK> to https :// github . com / <UNK> / <UNK> / commit / <UNK>
+update changelog
+<UNK> spurious spurious <UNK> of <UNK> . disposestatefulsession ()
+fix link to https - blog
+updated changelog
+update readme
+[ tests ] <UNK> <UNK> xmx128m xmx128m xmx128m xmx128m build
+bumped version for <UNK> plugin
+updated changelog
+unused skin import
+let test test
+translated using weblate ( chinese ( traditional )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+update release notes
+missed sheet sheet same to index
+mvn : updates libjitsi
+expose <UNK> to pants builddict manual
+fixed layout indicator <UNK> <UNK> , <UNK> <UNK> <UNK>
+de de completion
+set version to 0 . 8
+beta 9 file
+readme
+http :// codereview . java . com / p / google - client / issues / <UNK>
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed channel value for <UNK>
+translated using weblate ( hebrew ) currently translated at 99 . 8 % ( <UNK> of 2577 strings )
+update version
+changed eventadapter eventlistener eventadapter eventlistener author to msncontactlisteventlistener eventlistener <UNK>
+fix for issue - <UNK>
+gradle <UNK>
+<UNK> archive archive archive archive archive <UNK>
+fix typo in protected . counter
+translated using weblate ( serbian ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+added 15 15 to <UNK>
+updating changelog for 1 . 0 . 1 release
+release 0 . 7 . 0
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+update gradle sdk
+<UNK> api for <UNK> and <UNK> . <UNK> , <UNK> for <UNK> and <UNK> , actions <UNK> / <UNK>
+upgrade okhttp okhttp okhttp 3 . 7 . 0
+translated using weblate ( swedish ) currently translated at 99 . 2 % ( <UNK> of 1568 strings )
+upgrade to rxjava 1 . 3 . 3 # <UNK>
+change the <UNK> number in the project build
+add logging style to warn . nouid
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( arabic ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed method to void displaybuffer displaybuffer package package
+remove new <UNK> <UNK>
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> pushy <UNK> to 0 . 8 - snapshot
+added john email wagenleitner to the john list
+gif
+[ maven - release - plugin ] prepare release v2 . 3 . 1
+translated using weblate ( german ) currently translated at 100 . 0 % ( 1636 of 1636 strings )
+fixing java . gradle version to include 2 . 8
+fixing a typo in e script
+[ artifactory - release ] next development version [ skip ci ]
+testing <UNK> linux
+updated before / after images
+updated changelog
+[ artifactory - release ] next development version 3 . 0 . 0 . build - snapshot
+missing annotation org . docx4j . xmlschema . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart . chart .
+translated using weblate ( italian ) currently translated at 100 . 0 % ( 1614 of 1614 strings )
+releasing version 0 . 2 . 8
+added missing display 0 0 . 0 . 0 branch
+added getevcacheconfig config method
+updated gitignore
+rhinohelper a crash if you don ' t work if the <UNK> report
+updates tests reference to fix issue with <UNK> <UNK>
+add doc :: git :: note to gettingstarted clone <UNK>
+<UNK> ddth mmmmm mmmmm version
+added even to even int , fill an <UNK> int to fill doublevalue too
+bumped version to 0 . 8 . 0
+translated using weblate ( german ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+changelog
+added react - bootstrap to package
+<UNK> : use <UNK> e smallscalingorderedset e (# <UNK> )
+translated using weblate ( french ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[# <UNK> ] <UNK> : updated test fixture
+translated using weblate ( polish ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+adding a gen test to gen test <UNK>
+bumped version to 2 . 6alpha18 @ branch - specific
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix a bug in drawview <UNK> ()
+fixed <UNK> () method
+adding last <UNK> for runtests 500
+made method public
+correct tests for package tests
+translated using weblate ( german ) currently translated at 100 . 0 % ( 3062 of 3062 strings )
+translated using weblate ( sardinian ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+fix a bug in reflect <UNK> ()
+[ maven - release - plugin ] prepare release mango - 1 . 05
+fixed " <UNK> ' typo in readme
+remove unused package
+don ' t close reset for <UNK> in <UNK>
+<UNK> sqlcipher submodule to tag v2 . 0 . <UNK>
+removed redundant byte byte byte from jabref byte net apps
+added todo
+fix javadoc for <UNK> bug
+removed <UNK> from <UNK>
+translated using weblate ( norwegian bokml ) currently translated at <UNK> . 9 % ( <UNK> of <UNK> strings )
+<UNK> should be delaystrategy final
+using play <UNK> from play
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated to wss4j 1 . 5 . 6
+update travis
+bumped version to 2 . 5beta22 @ branch - specific
+add a debug warning when <UNK> <UNK>
+translated using weblate ( german ) currently translated at 100 . 0 % ( 2757 of 2757 strings )
+changed to new translation of android . holo . parent . newer
+added source project project
+updates libjitsi to <UNK>
+looks like line for dashfavoritesfragment show upon the dashfavoritesfragment devices
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+call to get <UNK> ()
+prepare release v2 to v2 . 11 . 0
+fix error error
+upgrade maven - gpg - plugin from 1 . 4 to 1 . 6
+remove unused manifest
+fixed a bug in typeview . <UNK> ()
+signed - off - by : jeeeyul < jeeeyul @ gmail . com >
+uint32_t uint32_t tcphdr time <UNK> <UNK>
+translated using weblate ( polish ) currently translated at 100 . 0 % ( 2209 of 2209 strings )
+translated using weblate ( catalan ) currently translated at <UNK> . 5 % ( <UNK> of <UNK> strings )
+don ' t return the <UNK> instead of the schema
+short circuit circuit circuit circuit <UNK>
+added deploy
+removed extra check svn changeset : <UNK> / svn branch : trunk
+fix bitmaputil static static comment
+added a more dependency to archetype . pom . xml on archetype
+[ pom ] update natty 0 . 10 . 1 to final
+added buttonclick pagelength pagelength ( <UNK> ) svn changeset : <UNK> / svn branch : 6 . 5
+[ php ] make <-- reported reported reported
+change default <UNK> user for <UNK> to settings
+changed <UNK> api to 24
+fixes # <UNK> ; <UNK> does be <UNK> with && size size
+[ pom ] update signavio - core - components to 1 . 0
+check to fix <UNK> when <UNK> is null
+padding on <UNK> padding
+fix : <UNK> successdialogfragment errordialogfragment showdialog backup errordialogfragment fix - <UNK> ]
+<UNK> sql to sql for sql type
+<UNK> () should be htmlencode htmlencode htmlencode htmlencode htmlencode htmlencode htmlencode to avoid deploy <UNK> , not sure it <UNK> to make these <UNK>
+minor , remove <UNK> <UNK> <UNK> from <UNK>
+[ maven - release - plugin ] prepare for next development iteration
+added <UNK> configuration to travis build
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+added src_dir src_dir tests svn changeset : <UNK> / svn branch : 6 . 8
+changes to correct <UNK> class for <UNK> class
+added submodule icu4c external
+translated using weblate ( esperanto ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+add log . log to . gitignore
+<UNK> 9 9 for jdk 9
+added wait . png
+added static constructor to abstractasynclistactivity final
+updated to the latest version of the bom
+fixed issue , pass doesn ' t pass an explicit an explicit an explicit an explicit an explicit an explicit an explicit an explicit
+add a inspectiondescriptions unserializeexploitsinspection html for <UNK> <UNK>
+add missing kylin . sh to test
+bumped version to 2 . 9alpha24 @ branch - specific
+gh - <UNK> - added example file to accumulo accumulo store <UNK>
+skip <UNK> errors for travis
+translated using weblate ( german ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed <UNK> () when <UNK> cancel is <UNK>
+translated using weblate ( spanish ( argentina )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed checking that task from task if task is not <UNK>
+update gradle
+update to latest version of common parent parent
+add a <UNK> <UNK> for <UNK> <UNK> <UNK>
+bumped version to 2 . 0 . 3
+try osmand
+fixed issue with <UNK> <UNK> component <UNK> in container cases
+fixed sync issue
+upgrade to kotlin 1 . 2 . 41 closes gh - <UNK>
+added <UNK> images for <UNK> and gif for windows
+[ maven - release - plugin ] prepare for next development iteration
+updates libjitsi to <UNK>
+removed a redundant call from component
+translated using weblate ( spanish ( american )) currently translated at 100 . 0 % ( 2000 of 2000 strings )
+release 0 . 110
+translated using weblate ( portuguese ( brazil )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fix test
+parent maven - release - plugin
+remove console log
+bump version to 0 . 7 . 3
+added cache folder to gitignore
+beta version code
+upgrade docker - java - version to 3 . 0 . 10
+fixed a <UNK> error in start . sh
+changed layout method to final
+updates libjitsi to <UNK>
+toolkit 5 . 3 . 0 rc6 5 . 3 . 0 rc6
+bumped version to 2 . 9alpha27 @ branch - specific
+use android <UNK> plugin
+<UNK> data <UNK>
+[ artifactory - release ] next development version
+adding missing byte . class to the diskstorage configoption <UNK> import
+fixed version of package file
+[ java ]: upgrade to gradle 2 . 8
+mylocationoverlay mylocationoverlay mylocationoverlay mylocationoverlay mylocationoverlay mylocationoverlay mylocationoverlay mylocationoverlay setmylocationoverlay mylocationoverlay mylocationoverlay mylocationoverlay <UNK> ]
+removed return <UNK> check
+fix travis build
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( 1861 of 1861 strings )
+added method about serialversionuid serialversionuid serialversionuid serialversionuid <UNK> )
+clean up svn changeset : <UNK> / svn branch : 6 . 5
+fix <UNK> fa text ( via # <UNK> )
+translated using weblate ( russian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+updated the bin script for rebuildjar notify =""; =""; <UNK>
+[ feature ] update gradle to 1 . 0 . 0
+test
+fixed the <UNK> script
+adding <UNK>
+<UNK> <UNK> from <UNK> to avoid <UNK> <UNK>
+fix wrong initialization of <UNK>
+modified demos script
+gitignore
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+renamed packet for packet
+translated using weblate ( russian ) currently translated at 96 . 5 % ( <UNK> of <UNK> strings )
+<UNK> context context for <UNK> <UNK>
+runtime
+19 build tools to support version
+add gem to airbrake 4 . 0 <UNK>
+add . idea folder to gitignore
+target_jar jarscan jarscan target_jar target_jar target_jar error in <UNK>
+set substring substring 0 ()))); title to # <UNK>
+incrementing snapshot version to 1 . 1 . 0 - snapshot
+fixed a bug in typing . <UNK> () that <UNK> <UNK> could be <UNK> by setting
+de de strings
+fix error in readme
+fixes for the applyfilter logger >
+updated the readme
+adds missing ahmed ahmed ahmed ahmed ahmed # <UNK>
+colorfill example
+translated using weblate ( esperanto ) currently translated at 100 . 0 % ( 2564 of 2564 strings )
+[ maven - release - plugin ] prepare for next development iteration
+switched to trim ()
+update readme
+[ artifactory - release ] next development version 4 . 1 . 0 . build - snapshot
+added <UNK> to <UNK>
+updated link to mkdirs mkdirs () path
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ artifactory - release ] release version 2 . 5 . 0 . m4
+adds a settoken settoken settoken token method to colibriconferenceiq colibri token
+add the logo to the res logo
+log log
+test : sys sys android 22 file
+translated using weblate ( latvian ) currently translated at 83 . 5 % ( <UNK> of 3062 strings )
+added ibatis ibatis dependency to the cglib cglib samples <UNK>
+added package for the image ` and image input `
+[ maven - release - plugin ] prepare for next development iteration
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+<UNK> swt swt swt swt swt eclipse
+<UNK> (" extensions for certificate extensions
+gh - <UNK> - <UNK> <UNK> <UNK>
+fix test
+gh - 882 - <UNK> travis
+[ maven - release - plugin ] prepare for next development iteration
+added permission to get_accounts permission
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( catalan ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+[ travis ] add <UNK>
+translated using weblate ( french ) currently translated at 99 . 9 % ( <UNK> of <UNK> strings )
+make this 2 . 6 . 8beta
+translated using weblate ( chinese ( traditional )) currently translated at 100 % ( 0 of 0 strings ) created new translation
+<UNK> the default snapshots for <UNK>
+add a resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizer resizer resizer resizer resizer resizer resizer resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory resizerfactory
+re - svn - id : https :// only . mawhrin . net / repos / fbreaderj / trunk @ <UNK> 6a642e6f - 84f6 - 412e - ac94 - c4a38d5a04b0
+removed assumenosideeffects proguard config case
+added <UNK> execution execution
+adding patch <UNK> to <UNK> pom
+updates libjitsi . jar ( built on
+added viewtweet . users
+add viewpager2demos viewpager2demos viewpager2demos . owners
+upgrade to es 1 . 0 . 0 . beta2
+bumped version to 2 . 5 . 3beta6 @ branch - specific
+add missing listing the process the <UNK> docs
+remove extraneous imports from workingwithcolorimages import
+fixed issue with <UNK> <UNK> regression in container caused
+update todo
+git - svn - id : https :// only . mawhrin . net / repos / fbreaderj / trunk @ <UNK> 6a642e6f - 84f6 - 412e - ac94 - c4a38d5a04b0
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+guava . xml : guava to fix <UNK> on guava issue on issue # <UNK>
+fixed incorrect url error in extender url
+fixed prompt comment for ios seems svn changeset : <UNK> / svn branch : 6 . 8
+add <UNK> task
+fixes package <UNK>
+added travis support
+exposed <UNK> <UNK>
+add @ param for param <UNK>
+translated using weblate ( lithuanian ) currently translated at 99 . 9 % ( <UNK> of 1614 strings )
+update the project version to 0 . 68 . 3 - snapshot
+[ maven - release - plugin ] prepare release avaje - ebeanorm - 4 . 5 . 2
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+upgrade to spring cloud services 1 . 1 . 0 . release closes gh - <UNK>
+[ website ] build_site build_site . sh
+[ <UNK> - <UNK> ] disable <UNK> of openshift to mq mq mq . <UNK> <UNK> by default
+pre7 gradle to <UNK>
+release 1 . 2 . 0
+added map to the cache
+added @ ignore
+added <UNK> ()
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed a exception when creating an catch exception
+translated using weblate ( arabic ) currently translated at 86 . 8 % ( <UNK> of 2005 strings )
+add . ds_store to . gitignore
+readme
+fix rid of typo in basendarray basendarray index . xml
+remove <UNK> padding from <UNK> theme
+bumped <UNK> to 1 . 2
+translated using weblate ( kabyle ) currently translated at 21 . 5 % ( <UNK> of 2536 strings )
+removed unused import
+changed 1 seconds to 1 seconds
+[ docs ] readme
+made all all delete quiet delete from the build . xml
+v2 . 9 . 0
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+removed unused test
+translated using weblate ( hebrew ) currently translated at <UNK> . 5 % ( <UNK> of 3494 strings )
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+removed <UNK> from parent pom
+remove duplicate insight insight storage storage
+translated using weblate ( esperanto ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+translated using weblate ( ukrainian ) currently translated at 100 . 0 % ( 3062 of 3062 strings )
+adding travis ci badge
+added link to check
+[ jboss - fuse - 6 . 1 . x 043 ] updating perfectus - build number to new build
+comment for tests <UNK> # skipgram and <UNK> : apply and arg for cbow and hierarchicsoftmax and <UNK>
+[ mysql ] fix changeset <UNK> <UNK>
+translated using weblate ( korean ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( spanish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+git - svn - id : https :// only . mawhrin . net / repos / fbreaderj / trunk @ 59 6a642e6f - 84f6 - 412e - ac94 - c4a38d5a04b0
+bumped version to 2 . 9alpha7 @ branch - specific
+translated using weblate ( esperanto ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+bump version
+<UNK> true should be true
+updates libjitsi to <UNK>
+change string string
+fixed regression when <UNK> <UNK> <UNK>
+scope quidem scope
+translated using weblate ( danish ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+v2 . 33 . 1
+logo <UNK>
+korean on korean
+translated using weblate ( norwegian bokml ) currently translated at 100 , 0 % ( <UNK> of <UNK> strings )
+translated using weblate ( <UNK> ) currently translated at 100 % ( 0 of 0 strings ) created new translation
+added helper <UNK>
+changed security for the <UNK> headers
+translated using weblate ( french ) currently translated at 99 . 8 % ( <UNK> of <UNK> strings )
+writer println to writer println instead of writer flush ()
+translated using weblate ( belarusian ) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+fixed the parameter unit docs
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( 1621 of 1621 strings )
+added link to eclim directory
+print the exception if <UNK> <UNK> is logged
+apk
+<UNK> api for <UNK>
+translated using weblate ( chinese ( taiwan )) currently translated at 100 . 0 % ( <UNK> of <UNK> strings )
+remove ` word ` from ` heading ext anchor heading heading <UNK> < <UNK>
+add gen gen gen gen to . gitignore
+[ java ]: add jar to gradle repository
+[ maven - release - plugin ] prepare for next development iteration
+add cycle to lastcycle cycle
+[ gradle release plugin ] - pre tag commit : ' 0 . 1 . 10 '
+translated using weblate ( german ) currently translated at 100 . 0 % ( 3062 of 3062 strings )
+make git - svn - id : http :// protostuff . googlecode . com / svn / trunk @ <UNK> 3b38d51a - 9144 - 11de - 8ad7 - 8b2c2f1e2016
+fix a <UNK> in index . html
+<UNK>
+removed <UNK> of <UNK>
+added a comment for <UNK> <UNK>
+upgrade <UNK> party pom
+translated using weblate ( sardinian ) currently translated at 100 . 0 % ( 2094 of 2094 strings )
+6 product product 6 . 0 . 548
+added support of the the the resolver resolver resolver resolver the timer way cannot be updated by the <UNK> (# <UNK> )
+remove styles in strings
